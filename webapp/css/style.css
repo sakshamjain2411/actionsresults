@@ -1,0 +1,980 @@
+.sapCustomDynamicPage .sapCustomDynamicPageTitle {
+    min-height: 0px;
+    padding: 0px 0px 0px !important;
+}
+
+.sapMNCValueScr, .subTextSmallTiles3Top {
+    text-align: center !important
+}
+
+.highcharts-background, .highcharts-button rect {
+    fill: transparent !important
+}
+
+* {
+    text-shadow: none !important
+}
+
+#application-TableResult-Display {
+    background-image: url(../images/low_contrast_linen.png) !important
+}
+
+#shell-hdrcntnt {
+    background-image: url(../images/black_linen_v2.png)
+}
+
+.barChartVBoxInner, .dynamicPageHeader, .lineChartVBox, .sapFDynamicPageTitleWrapper .sapFDynamicPageTitle {
+    background-image: url(../images/black_linen_v2.png) !important
+}
+
+#logoutBtn .sapMBtnContent, #logoutBtn .sapUiIcon, .sapUshellActionItem .sapMBtnContent, .sapUshellActionItem .sapMBtnIcon, .sapUshellHeadTitle, .sapUshellMeAreaUserImage, .sapUshellMeAreaView .sapMITBFilter .sapMITBText, .sapUshellShellHeadAction>span, .sapUshellShellHeadItm>span, .sapUshellTabBarHeader .sapMITBTextOnly .sapMITBFilterDefault.sapMITBSelected>.sapMITBText {
+    color: #ddd
+}
+
+#backBtn {
+    display: none !important
+}
+
+.dynamicPageId>header {
+    margin-top: -3rem !important
+}
+
+html.sap-desktop ::-webkit-scrollbar {
+    background-color: #333 !important;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    width: 10px !important
+}
+
+html.sap-desktop::-webkit-scrollbar-thumb {
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, .3);
+    background-color: #d3d0d0 !important
+}
+
+html.sap-desktop::-webkit-scrollbar {
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    width: 10px !important
+}
+
+html.sap-desktop ::-webkit-scrollbar-thumb {
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, .3);
+    background-color: #d3d0d0 !important
+}
+
+.dynamicPageHeader, .sapFDynamicPageTitleWrapper.sapFDynamicPageTitleOnly>.sapFDynamicPageTitle, .sapFDynamicPageTitleWrapper.sapFDynamicPageTitleSnapped>.sapFDynamicPageTitle {
+    box-shadow: 0 .125rem 0 0 #ddd, inset 0 -.125rem 0 0 #ddd !important
+}
+
+.sapUiBLy {
+    opacity: .9 !important
+}
+
+.html, .levelView {
+    height: 102%
+}
+
+.hide {
+    display: none
+}
+
+.displyZero>div:nth-child(1)>div:nth-child(1), .highcharts-menu>div:nth-child(10), .highcharts-menu>div:nth-child(11), .highcharts-menu>div:nth-child(6), .sapFDynamicPageHeaderPinButton {
+    display: none !important
+}
+
+.hidelabel {
+    visibility: hidden
+}
+
+.panelheadingddContainer {
+    width: 100%
+}
+
+.dynamicPageHeader {
+    padding-top: 0 !important;
+    padding-bottom: .5rem !important
+}
+
+.sapFDynamicPage .sapFDynamicPageToggleHeaderIndicator.sapMBtn>.sapMBtnInner {
+    background-color: #ddd !important;
+    height: 1.5rem !important;
+    bottom: -2px !important
+}
+
+.sapFDynamicPage .sapFDynamicPageToggleHeaderIndicator.sapMBtn>.sapMBtnInner>span {
+    color: #000 !important;
+    line-height: 1.5rem !important
+}
+
+.sapFDynamicPageTitleWrapper .sapFDynamicPageTitleMainLeftHeading>span {
+    text-align: center !important;
+    width: 100%;
+    position: absolute;
+    top: 6px;
+    color: #fff;
+    font-size: 17px
+}
+
+.sapFDynamicPageTitleWrapper .sapFDynamicPageTitle {
+    padding-bottom: 0 !important;
+    min-height: 2.8rem !important
+}
+
+.dynamicPageHeader>button>span {
+    background-color: #f0ab00 !important
+}
+
+.dynamicPageHeader>button>span>span {
+    color: #fff !important
+}
+
+.dynamicPageFilterBar>div:nth-child(1)>div>div:nth-child(1), .dynamicPageFilterBar>div:nth-child(1)>div>div:nth-child(2) {
+    width: 230px !important;
+    max-width: 230px !important;
+    flex-basis: auto !important
+}
+
+.dynamicPageFilterBar>div:nth-child(1)>div>div:nth-child(3) {
+    width: 3300px !important;
+    max-width: 330px !important;
+    flex-basis: auto !important
+}
+
+.dynamicPageFilterBar>div:nth-child(1)>div>div:nth-child(4) {
+    width: 230px !important;
+    max-width: 230px !important;
+    flex-basis: auto !important
+}
+
+.dynamicPageFilterBar button span {
+    color: #ddd !important
+}
+
+.dynamicPageFilterBar>div:nth-child(1)>div>div:nth-child(1)>div:nth-child(1)>div:nth-child(1) label, .dynamicPageFilterBar>div:nth-child(1)>div>div:nth-child(2) label, .dynamicPageFilterBar>div:nth-child(1)>div>div:nth-child(3) label, .dynamicPageFilterBar>div:nth-child(1)>div>div:nth-child(4)>div:nth-child(1)>div:nth-child(1) label, .dynamicPageFilterBar>div:nth-child(1)>div>div:nth-child(5) label, .dynamicPageFilterBar>div:nth-child(1)>div>div:nth-child(6) label {
+    color: #ddd
+}
+
+.dynamicPageFilterBar>div:nth-child(1)>div>div:nth-child(1) button span, .dynamicPageFilterBar>div:nth-child(1)>div>div:nth-child(2) button span, .dynamicPageFilterBar>div:nth-child(1)>div>div:nth-child(3) button span, .dynamicPageFilterBar>div:nth-child(1)>div>div:nth-child(4) button span, .dynamicPageFilterBar>div:nth-child(1)>div>div:nth-child(5) button span, .dynamicPageFilterBar>div:nth-child(1)>div>div:nth-child(6) button span {
+    text-shadow: none;
+    color: #ddd
+}
+
+.sapFDynamicPageHeaderPinButtonArea button span .sapUiIcon::before {
+    color: #ddd
+}
+
+.sapFDynamicPageHeaderPinButtonArea button span {
+    text-shadow: none
+}
+
+.vboxTable {
+    height: 97.5%;
+    width: 33%;
+    min-width: 420px
+}
+
+.barChartVBoxInner, .lineChartVBox {
+    overflow: hidden
+}
+
+.barChartVBoxInner>div:nth-child(1), .lineChartVBox>div:nth-child(1), .vboxTable>div:nth-child(1), .vboxTable>div:nth-child(2), .vboxTable>div:nth-child(3), .vboxTable>div:nth-child(4) {
+    background-image: url(../images/debut_dark.png) !important
+}
+
+.barChartVBoxInner {
+    margin-bottom: 10px;
+    height: calc(100% - 239px)
+}
+
+.lineChartVBox>div:nth-child(1) {
+    height: 42px
+}
+
+.lineChartVBox>div:nth-child(2) {
+    height: calc(100% - 40px)
+}
+
+.barChartVBoxInner>div:nth-child(2) {
+    height: 105%;
+    margin-bottom: -20px;
+    position: absolute;
+    width: 100%
+}
+
+.barChartVBoxInner svg .v-m-main {
+    transform: translateY(15px)
+}
+
+.barChartVBoxInner .sapSuiteUiCommonsChartContainerToolBarArea button span, .lineChartVBox .sapSuiteUiCommonsChartContainerToolBarArea button span {
+    text-shadow: none !important
+}
+
+.barChartVBoxInner .sapSuiteUiCommonsChartContainerToolBarArea button span>span, .filterLabel, .lineChartVBox .sapSuiteUiCommonsChartContainerToolBarArea button span>span {
+    color: #f0ab00 !important
+}
+
+.klz_popcombo .sapMTokenizerScrollContainer>div .sapMTokenIcon, .klz_popcombo>span, .searchfield form .sapMSFB, .searchfield form input, .vboxTable>div:nth-child(3) input {
+    color: #ddd !important
+}
+
+.vboxTable>div:nth-child(3) {
+    padding-left: 15px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    border-radius: 5px;
+    height: 40px
+}
+
+.cancelHBox>div:nth-child(2) {
+    position: absolute;
+    right: -1px;
+    top: -12px
+}
+
+.vboxTable>div:nth-child(2) {
+    padding-top: 0
+}
+
+.vboxTable>div:nth-child(3) input {
+    background-color: rgba(0, 0, 0, .1) !important
+}
+
+.vboxTable>div:nth-child(4) table th>div, .vboxTable>div:nth-child(5) table .sapMBar {
+    background-color: transparent;
+    text-shadow: none !important;
+    box-shadow: none !important
+}
+
+.vboxTable>div:nth-child(4) table th>div {
+    padding-top: 0 !important;
+    padding-bottom: 0 !important
+}
+
+.vboxTable>div:nth-child(4) table th>div .sapMBarRight {
+    padding-right: 0 !important
+}
+
+.klz_popcombo, .searchfield form {
+    background: rgba(0, 0, 0, .2) !important
+}
+
+.vboxTable>div:nth-child(5) table .sapMBar span {
+    text-shadow: none !important
+}
+
+.vboxTable>div:nth-child(5) table tr .sapMPanelExpandablePart, .vboxTable>div:nth-child(5) table tr header {
+    border: none !important
+}
+
+.vboxTable>div:nth-child(5) table tr header .sapMBarLeft span {
+    width: 100%;
+    padding-right: 20px !important;
+    font-size: 14px !important;
+    padding-top: 8px
+}
+
+.vboxTable>div:nth-child(5) table tr header .sapMBarRight span {
+    width: 131px
+}
+
+.searchfield form {
+    border-radius: 5px;
+    border: none !important
+}
+
+.klz_popcombo {
+    border: none !important;
+    margin-top: 0
+}
+
+.klz_popcombo>div {
+    background: 0 0 !important;
+    border: none !important
+}
+
+.klz_popcombo .sapMTokenizerScrollContainer>div {
+    background: #555 !important;
+    border: none !important;
+    color: #ddd !important
+}
+
+.vboxTiles {
+    width: 70% !important;
+    margin-right: 20px
+}
+
+.lineChartVBox {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: calc(100% - 230px);
+    margin-top: 15px;
+    margin-bottom: 16px
+}
+
+.adoptionDayTile, .pickListTile {
+    width: 100% !important
+}
+
+.lineChartVBox .sapSuiteUiCommonsChartContainerWrapper {
+    height: 400px
+}
+
+.lineChartVBox .sapSuiteUiCommonsChartContainerChartArea {
+    height: 270px;
+    background-image: url(../images/debut_dark.png) !important
+}
+
+#repoContainerReviewArea, .barChartVBoxInner .sapSuiteUiCommonsChartContainerWrapper, .barChartVBoxInner .sapSuiteUiCommonsChartContainerWrapper>div>div:nth-child(2) {
+    height: 100%
+}
+
+#repoContainerReviewArea, .HBarChart {
+    background-image: url(../images/black_linen_v2.png) !important
+}
+
+.barChartVBox {
+    width: 33%;
+    margin-right: 20px
+}
+
+.barChartVBoxInner .sapMTB {
+    border-bottom: none !important
+}
+
+.HBarChart {
+    width: 100% !important;
+    height: 475px;
+    padding-left: 10px
+}
+
+.hBoxSmallTiles {
+    height: 210px;
+    margin-bottom: 20px
+}
+
+.hBoxSmallTiles>div:nth-child(1) {
+    width: 30%;
+    margin-right: 20px
+}
+
+.hBoxSmallTiles>div:nth-child(2) {
+    width: 70%
+}
+
+.countTile {
+    height: 100% !important;
+    width: 100% !important
+}
+
+.adoptionDayTile, .countTile, .pickListTile {
+    border: 0 !important
+}
+
+.vBoxSmallTiles1, .vBoxSmallTiles2, .vBoxSmallTiles3 {
+    border-radius: 10px;
+    width: 100%
+}
+
+.pickListTile .sapMGTHdrContent {
+    height: 32px;
+    background-image: url(../images/debut_dark.png) !important;
+    padding-top: .625rem;
+    padding-left: .94rem;
+    padding-right: .94rem;
+    margin: 0
+}
+
+.adoptionDayTile .sapMGTHdrContent {
+    height: 22px;
+    background-image: url(../images/debut_dark.png) !important;
+    margin: 0;
+    padding: .425rem .94rem .2rem
+}
+
+.vboxParent>div:nth-child(2) {
+    background-image: url(../images/black_linen_v2.png) !important
+}
+
+.barHead, .countTile .sapMGTHdrContent {
+    background-image: url(../images/debut_dark.png) !important;
+    margin: 0
+}
+
+.vboxParent {
+    height: 219px
+}
+
+.vboxParent .highcharts-container {
+    top: 10px
+}
+
+.barHead {
+    height: 35px;
+    padding: .525rem .94rem .2rem
+}
+
+.barHead>div:nth-child(2) {
+    position: absolute;
+    right: 10px
+}
+
+.textHeadFontLeft, .textHeadFontRight {
+    color: #f0ab00 !important;
+    font-size: 17px !important
+}
+
+.countTile .sapMGTHdrContent {
+    height: 32px;
+    padding-top: .625rem;
+    padding-left: .94rem;
+    padding-right: .94rem
+}
+
+.adoptionDayTile .sapMGTContent, .countTile .sapMGTContent, .pickListTile .sapMGTContent {
+    background-image: url(../images/black_linen_v2.png) !important
+}
+
+.pickListTile .sapMGTHdrContent span {
+    color: #f0ab00 !important;
+    font-size: 18px !important
+}
+
+.adoptionDayTile .sapMGTHdrContent span {
+    color: #f0ab00 !important;
+    font-size: 16px !important
+}
+
+.countTile .sapMGTHdrContent span {
+    color: #f0ab00 !important;
+    font-size: 18px !important
+}
+
+.pickListTile .sapMGTContent {
+    height: 135px !important
+}
+
+.adoptionDayTile .sapMGTContent {
+    height: 145px !important
+}
+
+.adoptionDayTile .sapMGTSubHdrTxt {
+    position: absolute;
+    right: 12px;
+    color: #f0ab00;
+    top: 7px;
+    font-size: 16px
+}
+
+.adoptionDayTile .sapMTileCntContent {
+    padding: 0
+}
+
+.countTile .sapMGTContent {
+    height: 100% !important
+}
+
+.countTile .Critical {
+    font-size: 45px !important;
+    margin-top: 15px;
+    justify-content: center
+}
+
+.countTile .sapMTileCntFooterTextColorNeutral {
+    top: 95px;
+    color: #ddd !important
+}
+
+.subTextSmallTiles1TopTile .sapMNCScale {
+    font-size: 23px !important
+}
+
+.pickListTile .sapMTileCntContent {
+    height: 125px !important;
+    padding-left: 0 !important;
+    padding-right: 0 !important
+}
+
+.pickListTile svg {
+    margin-left: -4px
+}
+
+.highcharts-text-outline {
+    stroke-width: 0 !important
+}
+
+.highcharts-menu-item {
+    padding: 0 5px !important
+}
+
+#repoContainerReview .highcharts-contextmenu {
+    right: -7px !important;
+    height: 58px !important;
+    overflow: hidden !important
+}
+
+.highcharts-button path {
+    stroke: #f0ab00
+}
+
+.adoptionDayTile .sapMTileCntFooterTextColorNeutral, .pickListTile .sapMTileCntFooterTextColorNeutral, .pickListTile svg>text {
+    display: none
+}
+
+.pickListContentTile {
+    width: 100% !important;
+    max-width: 100% !important
+}
+
+.pickListContentTileBtmVBox {
+    position: absolute;
+    left: 25%;
+    bottom: -30px;
+    width: 100%
+}
+
+.pickListContentTileBtmHBox2>div:nth-child(1) {
+    width: 10px;
+    height: 10px;
+    margin-right: 5px;
+    margin-left: 20px
+}
+
+.pickListContentTileBtmHBox>div:nth-child(1) {
+    width: 10px;
+    height: 10px;
+    margin-right: 5px
+}
+
+.pickListContentTileBtmHBox2>div:nth-child(2), .pickListContentTileBtmHBox>div:nth-child(2) {
+    width: 55px
+}
+
+.pickListContentTileBtmHBox>div:nth-child(2) {
+    width: 45px
+}
+
+.pickListContentTileBtmHBox2>div:nth-child(3) {
+    width: 20px
+}
+
+.pickListContentTileBtmHBox>div:nth-child(1) span {
+    background-color: #5EBB4B !important;
+    width: 10px;
+    height: 10px
+}
+
+.pickListContentTileBtmHBox2>div:nth-child(1) span {
+    background-color: #6586AD !important;
+    width: 10px;
+    height: 10px
+}
+
+.pickListContentTileBtmHBox2>div:nth-child(2) span, .pickListContentTileBtmHBox2>div:nth-child(3) span, .pickListContentTileBtmHBox>div:nth-child(2) span, .pickListContentTileBtmHBox>div:nth-child(3) span {
+    color: #ddd !important
+}
+
+.vBoxSmallTiles1 {
+    background-color: #3a7912
+}
+
+.vBoxSmallTiles2 {
+    background-color: #498b1f
+}
+
+.vBoxSmallTiles3 {
+    background-color: #944c19d4
+}
+
+.subTextSmallTiles3Top {
+    color: #ddd;
+    width: 100%;
+    font-size: 25px;
+    margin-top: 1px;
+    margin-bottom: 0;
+    margin-left: 5px
+}
+
+.subTextSmallTiles1Top, .subTextSmallTiles2Top {
+    color: #ddd;
+    width: 100%;
+    text-align: center !important;
+    margin-bottom: 5px
+}
+
+.subTextSmallTiles1Top {
+    font-size: 30px;
+    margin-top: 6px
+}
+
+.subTextSmallTiles2Top {
+    font-size: 25px;
+    margin-top: 5px
+}
+
+.subTextSmallTiles1Btm, .subTextSmallTiles3Btm {
+    font-size: 18px;
+    color: #ddd;
+    width: 100%;
+    text-align: center !important
+}
+
+.subTextSmallTiles3Btm {
+    margin-top: 10px
+}
+
+.subTextSmallTiles1Btm {
+    margin-top: 16px
+}
+
+.subTextSmallTiles2Btm {
+    color: #ddd;
+    width: 100%;
+    text-align: center !important;
+    font-size: 16px;
+    margin-top: 10px
+}
+
+.subTextSmallTiles3BtmMigration {
+    color: #ddd;
+    width: 100%;
+    text-align: center !important;
+    margin-top: 4px;
+    margin-right: 27px;
+    margin-left: 7px;
+    font-size: 15px
+}
+
+.mdfVBox {
+    margin-left: 72px
+}
+
+.subHBoxSmallTiles1>div:nth-child(1), .subHBoxSmallTiles2>div:nth-child(1), .subHBoxSmallTiles3>div:nth-child(1) {
+    width: 30%
+}
+
+.subVBoxSmallTiles2, .subVBoxSmallTiles3 {
+    width: 80%
+}
+
+.subVBoxSmallTiles1 {
+    width: 63%
+}
+
+.sapFDynamicPage .sapFDynamicPageContent {
+    background-image: url(../images/low_contrast_linen.png) !important
+}
+
+.table tr, .vboxTable>div:nth-child(4) table tr th {
+    background-image: url(../images/black_linen_v2.png) !important
+}
+
+.noCustList {
+    font-size: 19px;
+    color: #f0ab00;
+    padding: 10px 15px 15px;
+    width: 290px
+}
+
+.noCust, .noCustAdop {
+    font-size: 19px;
+    color: #f0ab00;
+    padding: 10px 10px 10px 15px;
+    width: 290px
+}
+
+.noCust {
+    height: 80px
+}
+
+.noCustAdop {
+    height: 42px
+}
+
+.chartCont .sapSuiteUiCommonsChartContainerToolBarArea button {
+    padding-top: 7px
+}
+
+.chartCont>div>div:nth-child(2) {
+    height: calc(100% - 5rem)
+}
+
+.table tr td span {
+    color: #ddd !important
+}
+
+.table tr td:nth-child(2) {
+    padding-top: 3px !important;
+    padding-bottom: 3px !important;
+    padding-left: 0 !important;
+    border-top: 0 !important
+}
+
+.table tr td:nth-child(3) {
+    border-right: 1px solid #ddd
+}
+
+.vboxTable>div:nth-child(4) table tr th span {
+    color: #f0ab00 !important;
+    font-size: 17px
+}
+
+.vboxTable>div:nth-child(4) table tr th {
+    background: 0 0;
+    padding-top: 0;
+    padding-bottom: 0
+}
+
+.DRS2>div:nth-child(1) input, .ddlVersion>div:nth-child(1) input, .segmentedDate li {
+    background-color: #eee !important
+}
+
+.segmentedDate {
+    width: 330px !important
+}
+
+.segmentedDate li {
+    padding: 0 !important
+}
+
+.segmentedDate li:hover {
+    background-color: #ddd !important
+}
+
+.sapMSegBBtn.sapMSegBBtnSel {
+    background: #346187 !important;
+    color: #fff !important;
+    border-color: #427cac !important
+}
+
+.cancelBtn>span:nth-child(1)>span:nth-child(1), .export>span:nth-child(1)>span:nth-child(1) {
+    color: #f0ab00 !important;
+    text-shadow: none !important
+}
+
+.cancelBtn>span:nth-child(1), .export>span:nth-child(1) {
+    border: none !important;
+    background: 0 0 !important
+}
+
+.sapMSegBBtn.sapMSegBBtnFocusable.sapMSegBBtnSel:hover, .sapMSegBBtnFocusable.sapMBtnActive:hover, html.sap-desktop .sapMSegBBtn.sapMSegBBtnFocusable.sapMSegBBtnSel:hover, html.sap-desktop .sapMSegBBtnFocusable.sapMBtnActive:hover {
+    background: #427cac !important
+}
+
+.imageSmallTiles1 {
+    margin-top: 5px;
+    margin-left: 40px
+}
+
+.imageSmallTiles3 {
+    margin-left: 40px
+}
+
+.tableHBox {
+    height: 55px
+}
+
+.tableHBox>div:nth-child(1) {
+    width: 150px
+}
+
+.overviewPictoTile>div:nth-child(2), .tableHBox>div:nth-child(2) {
+    width: 100% !important
+}
+
+.export {
+    position: absolute;
+    right: 1px;
+    top: -1px
+}
+
+.overviewPictoTile {
+    margin-top: -10px
+}
+
+.imgDeNew {
+    margin-top: 20px
+}
+
+.SentimentTileChart {
+    height: 120px !important;
+    width: 100 !important;
+    right: 0;
+    top: -18px
+}
+
+.SentimentTileChart .sapSuiteCpMCChartItemTitle {
+    color: #ddd !important;
+    font-size: 12px !important
+}
+
+.barTableHead {
+    background: 0 0 !important;
+    box-shadow: none !important
+}
+
+@media screen and (min-width:850px) and (max-width:1030px) {
+    .vboxTable>div:nth-child(5) table tr header .sapMBarRight span {
+        width: 90px
+    }
+
+    .vboxTable>div:nth-child(5)>div {
+        height: 317px !important
+    }
+
+    .vboxTable>div:nth-child(4) table th>div .sapMBarLeft {
+        padding-left: 36px !important
+    }
+
+    .vboxTable>div:nth-child(4) table th>div .sapMBarRight {
+        padding-right: 18px !important
+    }
+
+    .noCustList {
+        width: 160px !important
+    }
+
+    .barChartVBoxInner .sapSuiteUiCommonsChartContainerChartArea, .lineChartVBox .sapSuiteUiCommonsChartContainerChartArea {
+        height: 350px
+    }
+
+    .imageSmallTiles1 {
+        margin-top: 5px;
+        margin-left: 0
+    }
+
+    .subTextSmallTiles1Btm {
+        font-size: 15.3px
+    }
+
+    .subVBoxSmallTiles1 {
+        width: 75%
+    }
+
+    .imageSmallTiles3 {
+        margin-left: 5px
+    }
+
+    .subTextSmallTiles3Btm {
+        font-size: 16px;
+        margin-left: 10px
+    }
+
+    .mdfVBox {
+        margin-left: 18px
+    }
+
+    .barChartVBox {
+        width: 33% !important;
+        margin-right: 0
+    }
+
+    .vboxTable {
+        height: 530px;
+        width: 522px !important
+    }
+
+    .parentHBoxAction {
+        flex-wrap: wrap !important
+    }
+
+    .vboxTable>div:nth-child(5) table tr header .sapMBarLeft span {
+        width: 100%;
+        padding-right: 20px !important
+    }
+}
+
+@media screen and (min-width:1350px) and (max-width:1399px) {
+    .parentHBoxAction {
+        flex-wrap: wrap !important
+    }
+
+    .barChartVBox {
+        width: 55% !important
+    }
+
+    .vboxTable {
+        height: 600px;
+        width: 522px
+    }
+
+    .vboxTable>div:nth-child(5) table tr header .sapMBarLeft span {
+        width: 100%;
+        padding-right: 20px !important
+    }
+}
+
+@media screen and (min-width:1250px) and (max-width:1349px) {
+    .barChartVBox {
+        width: 50% !important
+    }
+
+    .parentHBoxAction {
+        flex-wrap: wrap !important
+    }
+
+    .vboxTable {
+        height: 600px;
+        width: 522px
+    }
+
+    .sapMBarLeft span {
+        width: 250px
+    }
+
+    .vboxTable>div:nth-child(5) table tr header .sapMBarLeft span {
+        width: 100%;
+        padding-right: 20px !important
+    }
+}
+
+@media screen and (min-width:1030px) and (max-width:1249px) {
+    .barChartVBox {
+        width: 40% !important
+    }
+
+    .parentHBoxAction {
+        flex-wrap: wrap !important
+    }
+
+    .vboxTable>div:nth-child(5) table tr header .sapMBarLeft span {
+        width: 100%;
+        padding-right: 20px !important
+    }
+
+    .vboxTable {
+        height: 600px;
+        width: 522px
+    }
+}
+
+@media screen and (min-width:1400px) and (max-width:1500px) {
+    .barChartVBoxInner svg .v-m-main {
+        transform: translateY(30px)
+    }
+}
+
+@media screen and (min-height:750px) and (max-height:810px) {
+    .barChartVBoxInner svg .v-m-main {
+        transform: translateY(40px)
+    }
+}
+
+@media screen and (min-width:1500px) and (max-width:1850px) {
+    .barChartVBox {
+        width: 33%
+    }
+}
+
+@media all and (-ms-high-contrast:none), (-ms-high-contrast:active) {
+    .vboxTiles {
+        height: 580px;
+        width: 560px !important;
+        margin-right: 20px
+    }
+}

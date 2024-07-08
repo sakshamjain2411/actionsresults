@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<edmx:Edmx Version="1.0"
+xmlns:edmx="http://schemas.microsoft.com/ado/2007/06/edmx">
+<edmx:DataServices
+xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata" m:DataServiceVersion="2.0">
+<Schema Namespace="sap.sfsf_repo.service.services"
+xmlns:d="http://schemas.microsoft.com/ado/2007/08/dataservices"
+xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata"
+xmlns="http://schemas.microsoft.com/ado/2008/09/edm">
+<EntityType Name="UpgradeCenterResultType">
+    <Key>
+        <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Edm.Int32" Nullable="false" />
+    <Property Name="COMPANY" Type="Edm.String" MaxLength="255" />
+    <Property Name="USER" Type="Edm.String" MaxLength="255" />
+    <Property Name="UPGRADE_ELEMENT" Type="Edm.String" MaxLength="500" />
+    <Property Name="RESULT" Type="Edm.String" MaxLength="255" />
+    <Property Name="MIGRATION" Type="Edm.String" MaxLength="255" />
+    <Property Name="LOG" Type="Edm.String" Nullable="false" MaxLength="2147483647" />
+    <Property Name="TIME_STAMP" Type="Edm.DateTime" Nullable="false" />
+    <Property Name="COMMENT" Type="Edm.String" MaxLength="500" />
+    <Property Name="COMPANYSCHEMA" Type="Edm.String" MaxLength="255" />
+    <Property Name="COMPANYID" Type="Edm.String" MaxLength="255" />
+    <Property Name="DBPOOLID" Type="Edm.String" MaxLength="255" />
+    <Property Name="RELEASE" Type="Edm.String" MaxLength="255" />
+    <Property Name="PATCHLEVEL" Type="Edm.String" MaxLength="255" />
+    <Property Name="VERSION" Type="Edm.String" MaxLength="255" />
+    <Property Name="BUILD" Type="Edm.String" MaxLength="255" />
+    <Property Name="FILEVERSION" Type="Edm.String" MaxLength="255" />
+    <Property Name="EMAIL" Type="Edm.String" MaxLength="255" />
+</EntityType>
+<EntityContainer Name="services" m:IsDefaultEntityContainer="true">
+    <EntitySet Name="UpgradeCenterResult" EntityType="sap.sfsf_repo.service.services.UpgradeCenterResultType" />
+</EntityContainer>
+</Schema>
+</edmx:DataServices>
+</edmx:Edmx>

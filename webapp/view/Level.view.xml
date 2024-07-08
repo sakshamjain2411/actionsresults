@@ -1,0 +1,315 @@
+<mvc:View 
+	class="levelView" 
+	controllerName="actionsresults.controller.Level" 
+	xmlns:core="sap.ui.core" 
+	xmlns:mvc="sap.ui.core.mvc"
+	xmlns:layout="sap.ui.layout" 
+	xmlns:com="sap.suite.ui.commons" 
+	xmlns:cc="sap.suite.ui.microchart"
+	xmlns:viz.feeds="sap.viz.ui5.controls.common.feeds" 
+	xmlns:viz.data="sap.viz.ui5.data" 
+	xmlns:tnt="sap.tnt" 
+	xmlns:fb="sap.ui.comp.filterbar"
+	xmlns:viz="sap.viz.ui5.controls" 
+	xmlns:f="sap.f"
+	xmlns="sap.m" 
+	xmlns:html="http://www.w3.org/1999/xhtml" 
+	displayBlock="true">
+	<f:DynamicPage id="dynamicPageId" class="dynamicPageId" headerExpanded="true">
+		<f:title>
+			<f:DynamicPageTitle class="sapCustomDynamicPageTitle">
+				<f:heading>
+				</f:heading>
+			</f:DynamicPageTitle>
+		</f:title>
+		<f:header>
+			<f:DynamicPageHeader class="dynamicPageHeader" pinnable="true">
+				<f:content>
+					<fb:FilterBar reset="onReset" class="dynamicPageFilterBar" search="onSearch" useToolbar="false" showGoOnFB="false">
+						<fb:filterItems>
+							<fb:FilterItem name="A" label="Version">
+								<fb:control>
+									<Select id="ddlVersion" class="ddlVersion" items="{path:'/stlist'}" change="ddlVersionChanged" selectedKey="Version">
+										<core:ListItem key="{versionPara}" text="{version}"/>
+									</Select>
+								</fb:control>
+							</fb:FilterItem>
+							<fb:FilterItem name="B" label="Date Range">
+								<fb:control>
+									<DateRangeSelection id="dateviewrange" class="DRS2" delimiter="{path:'dateModel>/delimiterDRS1'}"
+										dateValue="{path:'dateModel>/dateValueDRS1'}" secondDateValue="{path:'dateModel>/secondDateValueDRS1'}"
+										displayFormat="{path:'dateModel>/dateFormatDRS1'}" change="UpdateDateRange"
+										valueStateText="Selected Date Range cannont be greater than Current Date."/>
+								</fb:control>
+							</fb:FilterItem>
+							<fb:FilterItem name="C" label="Time Segments">
+								<fb:control>
+									<SegmentedButton id="dateview" class="segmentedDate" selectedButton="btn1Year">
+										<Button id="btn1Day" text="1D" press="UpdateGUIGraphsdate"/>
+										<Button id="btn1Month" text="1M" press="UpdateGUIGraphsdate"/>
+										<Button id="btn3Month" text="3M" press="UpdateGUIGraphsdate"/>
+										<Button id="btn6Month" text="6M" press="UpdateGUIGraphsdate"/>
+										<Button id="btn1Year" text="1Y" press="UpdateGUIGraphsdate"/>
+										<Button id="btn2Year" text="All" press="UpdateGUIGraphsdate"/>
+									</SegmentedButton>
+								</fb:control>
+							</fb:FilterItem> 
+							
+							<fb:FilterItem name="D" label="Product">
+								<fb:control>
+									<!--<ComboBox id="ddlProd" class="ddlVersion" enabled="false" selectedKey="EC">-->
+									<!--	<core:ListItem key="EC" text="Employee Central"/>-->
+									<!--</ComboBox>-->
+									<Select id="ddlProd" class="ddlVersion" selectedKey="All" change="ddlProductChanged">
+										<core:ListItem key="All" text="All"/>
+										<core:ListItem key="EC" text="Employee Central"/>
+										<core:ListItem key="RM" id="RM" text="Recruiting Management"/>
+										<core:ListItem key="SM" id="SM" text="Succession Management"/>
+										<core:ListItem key="PG" id="PG" text="Performance and Goals"/>
+										<core:ListItem key="CO" id="CO" text="Compensation"/>
+										<core:ListItem key="ON" id="ON" text="Onboarding"/>
+									</Select>
+								</fb:control>
+							</fb:FilterItem>
+							
+							<fb:FilterItem name="E" label="Scope Applied">
+								<fb:control>
+									<Select id="ddlDeploy" class="ddlVersion" selectedKey="BP" change="ddlDeployChanged">
+										<core:ListItem key="All" text="All"/>
+										<core:ListItem key="BP" text="Best Practices"/>
+										<core:ListItem key="CUST" text="Partner"/>
+									</Select>
+								</fb:control>
+							</fb:FilterItem>
+							
+						</fb:filterItems>
+					</fb:FilterBar>
+				</f:content>
+			</f:DynamicPageHeader>
+		</f:header>
+		<f:content>
+			<HBox class="parentHBoxAction">
+				<VBox class="vboxTiles">
+					<HBox class="hBoxSmallTiles">
+						<GenericTile size="M" header="Total Customers" class="countTile" frameType="OneByOne">
+							<tileContent>
+								<TileContent footer="" class="nocustomers" unit="">
+									<content>
+										<HBox>
+											<!--<Image class="imageSmallTiles1" densityAware="false" width="60px" height="60px" src="/sap/fiori/actionsresults/images/overview_orange.png"></Image>-->
+											<Image class="imageSmallTiles1 imgDeNew" densityAware="false" width="70px" height="70px" src="../images/overview_orange.png"></Image>
+										
+										<VBox class="overviewPictoTile" alignContent="Center" alignItems="Center" justifyContent="Center" width="100%">
+											
+											<NumericContent id="subTextSmallTiles1Top" class="subTextSmallTiles1TopTile" scale="" value="" valueColor="Critical"/>
+											<cc:ComparisonMicroChart id="CustTileChartAction"
+												class="SentimentTileChart displyZero" size="S" width="100%">
+												<cc:data>
+													<cc:ComparisonMicroChartData
+														title="Total Customers" id="noCustValSubAction" value="" displayValue="" color="Critical"></cc:ComparisonMicroChartData>
+													<cc:ComparisonMicroChartData
+														title="Net New Customers" id="noCustValSubNUiqueAction" value="" displayValue="" color="Good"></cc:ComparisonMicroChartData>
+													<cc:ComparisonMicroChartData
+														title="Existing Customers" id="noCustValSubExistAction" value="" displayValue="" color="Critical"></cc:ComparisonMicroChartData>
+												</cc:data>
+											</cc:ComparisonMicroChart>
+										</VBox>
+										
+										</HBox>
+									</content>
+								</TileContent>
+							</tileContent>
+						</GenericTile>
+						<!--<GenericTile size="M" header="Picklist Migration" class="pickListTile hide" frameType="TwoByOne">-->
+						<!--	<tileContent>-->
+						<!--		<TileContent class="pickListContentTile" footer="" unit="">-->
+						<!--			<content>-->
+						<!--				<HBox width="100%" alignContent="Center" alignItems="Center" justifyContent="Center">-->
+						<!--				<core:HTML id="repoContReview" content='&lt;div id=&quot;repoContainerReview&quot;&gt;&lt;/div&gt;'></core:HTML>-->
+								
+						<!--				<HBox class="pickListContentTileBtmVBox">-->
+						<!--					<HBox class="pickListContentTileBtmHBox">-->
+						<!--						<Text class="legendTextmdf"></Text>-->
+						<!--						<Text class="mdfCount" text="MDF"></Text>-->
+						<!--						<Text id="migratedCount" class="mdfCountVal" text=""></Text>-->
+						<!--					</HBox>-->
+						<!--					<HBox class="pickListContentTileBtmHBox2">-->
+						<!--						<Text class="legendTextlegacy"></Text>-->
+						<!--						<Text class="legacy" text="Legacy"></Text>-->
+						<!--						<Text id="nonmigratedCount" class="legacyCountVal" text=""></Text>-->
+						<!--					</HBox>-->
+						<!--				</HBox>-->
+						<!--				</HBox>-->
+						<!--			</content>-->
+						<!--		</TileContent>-->
+						<!--	</tileContent>-->
+						<!--</GenericTile>-->
+						
+							<VBox class="vboxParent">
+								<HBox class="barHead">
+									<Text class="textHeadFontLeft" text="Daily Breakdown"/>
+									<Text class="textHeadFontRight" text="Last 30 Days"/>
+								</HBox>
+								<core:HTML id="repoContReviewAreaDay" content='&lt;div id=&quot;repoContainerReviewAreaDay&quot;&gt;&lt;/div&gt;'></core:HTML>
+							</VBox>
+							
+					</HBox>
+					<VBox class="lineChartVBox">
+						<Text class="noCustAdop" text="New Customers"></Text>
+						<core:HTML id="repoContReviewArea" content='&lt;div id=&quot;repoContainerReviewArea&quot;&gt;&lt;/div&gt;'></core:HTML>
+						<!--<layout:FixFlex id='chartFixFlexDirLine' class='chartFixFlexDirLine' minFlexSize="485">-->
+						<!--<layout:flexContent>-->
+						<!--	<com:ChartContainer showLegendButton='true' showFullScreen='true'>-->
+						<!--		<com:content>-->
+						<!--			<com:ChartContainerContent>-->
+						<!--				<com:content>-->
+						<!--<viz:VizFrame id="AreaDetailLineChartDir" class="HBarChart" uiConfig="{applicationSet:'fiori'}" height="282px" width="98%" vizType='line'-->
+						<!--	vizProperties="{title:{text:''}}">-->
+						<!--	<viz:dataset>-->
+						<!--		<viz.data:FlattenedDataset data="{/data}">-->
+						<!--			<viz.data:dimensions>-->
+						<!--				<viz.data:DimensionDefinition name="Time" value="{time}"/>-->
+						<!--			</viz.data:dimensions>-->
+						<!--			<viz.data:measures>-->
+						<!--				<viz.data:MeasureDefinition value="{cmpny}" name="Greenfield"/>-->
+						<!--				<viz.data:MeasureDefinition value="{commu}" name="Cumulative"/>-->
+						<!--			</viz.data:measures>-->
+						<!--		</viz.data:FlattenedDataset>-->
+						<!--	</viz:dataset>-->
+						<!--	<viz:feeds>-->
+						<!--		<viz.feeds:FeedItem uid="valueAxis" type="Measure" values="Greenfield"/>-->
+						<!--		<viz.feeds:FeedItem uid="valueAxis2" type="Measure" values="Cumulative"/>-->
+						<!--		<viz.feeds:FeedItem uid="categoryAxis" type="Dimension" values="Count"/>-->
+						<!--	</viz:feeds>-->
+						<!--</viz:VizFrame>-->
+						<!--					</com:content>-->
+						<!--				</com:ChartContainerContent>-->
+						<!--			</com:content>-->
+						<!--		</com:ChartContainer>-->
+						<!--	</layout:flexContent>-->
+						<!--</layout:FixFlex>-->
+					</VBox>
+				</VBox>
+				<!--<VBox class="barChartVBox">-->
+					<!--<VBox class="barChartVBoxInner hide">-->
+					<!--	<Text class="noCust" text="Greenfield v/s Brownfield"></Text>-->
+					<!--	<layout:FixFlex id='chartFixFlexHBar' class='chartFixFlexHBar'>-->
+					<!--		<layout:flexContent>-->
+					<!--			<viz:Popover id="idPopOver"></viz:Popover>-->
+					<!--			<com:ChartContainer class="chartCont" showLegendButton='true' showFullScreen='true' showZoom='false'>-->
+					<!--				<com:content>-->
+					<!--					<com:ChartContainerContent>-->
+					<!--						<com:content>-->
+					<!--							<viz:VizFrame id="HBarChart" class="HBarChart" selectData="onSelect" deselectData="onDeselect" uiConfig="{applicationSet:'fiori'}"-->
+					<!--								height="100%" width="98%" vizType='stacked_column' vizProperties="{title:{text:''}}">-->
+					<!--								<viz:dataset>-->
+					<!--									<viz.data:FlattenedDataset data="{/data}">-->
+					<!--										<viz.data:dimensions>-->
+					<!--											<viz.data:DimensionDefinition name="Time" value="{time}"/>-->
+					<!--										</viz.data:dimensions>-->
+					<!--										<viz.data:measures>-->
+					<!--											<viz.data:MeasureDefinition value="{cmpny}" name="Greenfield"/>-->
+					<!--											<viz.data:MeasureDefinition value="{cmpny1}" name="Brownfield"/>-->
+					<!--										</viz.data:measures>-->
+					<!--									</viz.data:FlattenedDataset>-->
+					<!--								</viz:dataset>-->
+					<!--								<viz:feeds>-->
+					<!--									<viz.feeds:FeedItem uid="valueAxis" type="Measure" values="Greenfield,Brownfield"/>-->
+					<!--									<viz.feeds:FeedItem uid="categoryAxis" type="Dimension" values="Count"/>-->
+					<!--								</viz:feeds>-->
+					<!--							</viz:VizFrame>-->
+					<!--						</com:content>-->
+					<!--					</com:ChartContainerContent>-->
+					<!--				</com:content>-->
+					<!--			</com:ChartContainer>-->
+					<!--		</layout:flexContent>-->
+					<!--	</layout:FixFlex>-->
+					<!--</VBox>-->
+								<!--<GenericTile size="L" header="Daily Breakdown" subheader="Last 30 Days" class="adoptionDayTile" frameType="TwoByOne">-->
+								<!--	<tileContent>-->
+								<!--		<TileContent class="adoptionDayContentTile" footer="" unit="">-->
+								<!--			<content>-->
+								<!--				<core:HTML id="repoContReviewAreaDay" content='&lt;div id=&quot;repoContainerReviewAreaDay&quot;&gt;&lt;/div&gt;'></core:HTML>-->
+								<!--			</content>-->
+								<!--		</TileContent>-->
+								<!--	</tileContent>-->
+								<!--</GenericTile>-->
+								
+					<!--<VBox class="vboxParent">-->
+					<!--	<HBox class="barHead">-->
+					<!--		<Text class="textHeadFontLeft" text="Daily Breakdown"/>-->
+					<!--		<Text class="textHeadFontRight" text="Last 30 Days"/>-->
+					<!--	</HBox>-->
+					<!--	<core:HTML id="repoContReviewAreaDay" content='&lt;div id=&quot;repoContainerReviewAreaDay&quot;&gt;&lt;/div&gt;'></core:HTML>-->
+					<!--</VBox>-->
+					
+				<!--</VBox>-->
+				
+				
+				<VBox class="vboxTable">
+					<HBox class="tableHBox">
+						<Text class="noCustList" text="Customers"></Text>
+						<Button icon="sap-icon://download" class="export" press="onExport"/>
+					</HBox>
+					<SearchField liveChange="onSearch" width="100%" id="searchfield" class="searchfield" placeholder="Search Customers"/>
+					<!--<ComboBox id="ddlUpgrade" width="100%" selectedKey="All" class="klz_popcombo" selectionChange="ddlUpgradeChanged">-->
+					<!--	<core:ListItem key="All" text="All"/>-->
+					<!--	<core:ListItem key="GF" text="Green Field Customers"/>-->
+					<!--	<core:ListItem key="BF" text="Brown Field Customers"/>-->
+					<!--</ComboBox>-->
+					<HBox class="cancelHBox">
+						<Label class="filterLabel" id="filterLabel" text=""></Label>
+						<Button icon="sap-icon://sys-cancel" class="cancelBtn" id="cancelBtn" visible="false" press="onClearCharts"/>
+					</HBox>
+					
+					<Table showNoData="false">
+						<columns>
+							<Column minScreenWidth="" demandPopin="false" mergeDuplicates="true">
+								<Bar class="barTableHead">
+									<contentLeft>
+										<Text text="Company Name"/>
+									</contentLeft>
+									<contentRight>
+										<Text text="Time Stamp (Last Run)"/>
+									</contentRight>
+								</Bar>
+							</Column>
+						</columns>
+					</Table>
+					<ScrollContainer id="tableSc" width="100%" height="399px" horizontal="false" vertical="true">
+						<Table id="listTable" inset="false" class="table" items="{path: '/stlistUser'}" growing="true" growingScrollToLoad="true" growingThreshold="12">
+							<columns>
+								<Column></Column>
+							</columns>
+							<items>
+								<ColumnListItem>
+									<cells>
+										<Panel expandable="true" expanded="false">
+											<headerToolbar>
+												<Toolbar height="3rem">
+													<Bar>
+														<contentLeft>
+															<!--<Text text="{val}"/>-->
+															<Text text="{path:'val',formatter: '.defaultname' }"/>
+															
+														</contentLeft>
+														<contentRight>
+															<Text text="{time}"/>
+														</contentRight>
+													</Bar>
+												</Toolbar>
+											</headerToolbar>
+											<content>
+												<Text text="{path:'upgradeDisplay',formatter: '.boldName' }"/>
+											</content>
+										</Panel>
+									</cells>
+								</ColumnListItem>
+							</items>
+						</Table>
+					</ScrollContainer>
+				</VBox>
+			</HBox>
+		</f:content>
+	</f:DynamicPage>
+</mvc:View>

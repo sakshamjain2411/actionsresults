@@ -1,0 +1,135 @@
+{
+  "_version": "1.7.0",
+  "sap.app": {
+    "id": "actionsresults",
+    "type": "application",
+    "applicationVersion": {
+      "version": "1.0.0"
+    },
+    "title": "New Customers",
+    "description": "HXM Usage Dashboard New Customers",
+    "dataSources": {
+      "mainService": {
+        "uri": "/sap/sfsf_repo/service/services.xsodata/",
+        "type": "OData",
+        "settings": {
+          "annotations": [],
+          "localUri": "localService/metadata.xml",
+          "odataVersion": "2.0"
+        }
+      }
+    },
+    "crossNavigation": {
+      "inbounds": {
+        "actionsresults-display": {
+          "semanticObject": "actionsresults",
+          "action": "display",
+          "title": "{{flpTitle}}",
+          "subTitle": "{{flpSubtitle}}",
+          "signature": {
+            "parameters": {},
+            "additionalParameters": "allowed"
+          }
+        }
+      }
+    }
+  },
+  "sap.ui": {
+    "technology": "UI5",
+    "icons": {
+      "icon": "",
+      "favIcon": "",
+      "phone": "",
+      "phone@2": "",
+      "tablet": "",
+      "tablet@2": ""
+    },
+    "deviceTypes": {
+      "desktop": true,
+      "tablet": true,
+      "phone": true
+    }
+  },
+  "sap.ui5": {
+    "routing": {
+      "config": {
+        "routerClass": "sap.m.routing.Router",
+        "viewType": "XML",
+        "async": true,
+        "viewPath": "actionsresults.view",
+        "controlAggregation": "pages",
+        "controlId": "app",
+        "clearControlAggregation": false
+      },
+      "routes": [
+        {
+          "name": "RouteMain",
+          "pattern": "",
+          "target": [
+            "TargetMain"
+          ]
+        }
+      ],
+      "targets": {
+        "TargetMain": {
+          "viewType": "XML",
+          "transition": "slide",
+          "clearControlAggregation": false,
+          "viewName": "Level"
+        }
+      }
+    },
+    "rootView": {
+      "viewName": "actionsresults.view.App",
+      "type": "XML",
+      "async": true,
+      "id": "app"
+    },
+    "dependencies": {
+      "minUI5Version": "1.30.0",
+      "libs": {
+        "sap.ui.core": {},
+        "sap.m": {},
+        "sap.f": {},
+        "sap.ui.layout": {},
+        "sap.ushell": {},
+        "sap.collaboration": {},
+        "sap.ui.comp": {},
+        "sap.uxap": {}
+      }
+    },
+    "contentDensities": {
+      "compact": true,
+      "cozy": true
+    },
+    "models": {},
+    "resources": {
+      "js": [
+        {
+          "uri": "libs/highcharts/highcharts.js"
+        },
+        {
+          "uri": "libs/highcharts/highcharts-3d.js"
+        },
+        {
+          "uri": "libs/highcharts/exporting.js"
+        },
+        {
+          "uri": "libs/highcharts/export-data.js"
+        }
+      ],
+      "css": [
+        {
+          "uri": "css/style.css"
+        }
+      ]
+    },
+    "config": {
+      "fullWidth": true
+    }
+  },
+  "sap.cloud": {
+    "public": true,
+    "service": "actionsresults"
+  }
+}

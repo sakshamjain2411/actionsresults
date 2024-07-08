@@ -1,0 +1,3490 @@
+[
+    {
+        "UPGRADE_ELEMENT": "Total Compensation Integration with Performance Management",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Total Compensation Integration with Employee Central and Performance Management",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Salary Integration with Performance Management",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Salary Integration with Employee Central and Performance Management",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Variable Pay Integration with EC and Performance Management",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Variable Pay Integration with Performance Management",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Stock Integration with Employee Central and Performance Management",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Stock Integration with Performance Management",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Reward and Recognition Integration with Employee Central for Currency Programs",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Reward and Recognition Standalone Setup for Currency Programs",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Export_RBP",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "compVP",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "stockcomp1",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "testrule",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "COMP_EP",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "COMP_EC",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Reward_Recognition",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Merit_Lumpsum_Adj_Inf_Promotion",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Merit_Lumpsum_Adj_Inf_Promotion",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Salary_Basic_Settings",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Stock_Basic_Settings",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Comp_Salary_PM_EC",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "RBP_Comp_Group",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Salary_Basic_Settings",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Salary_Integration_with_PM",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_Translation_Objects",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "A_Custom_Compensation_Salary",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "A_Custom_Comp_Salary_PM",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "A_Custom_Comp_Stock",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "A_Custom_Comp_Stock_PM",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "A_Custom_Comp_Variable_Basic",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "A_Custom_Comp_Variable_PM",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "A_Custom_Comp_Total_PM",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "BPCompECDemo",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "BPCompDemo2011",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "CompFieldPermTest",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "CompTest",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "myC_CurrencyNew",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "myC_Compgroups",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "myC_Comproles",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "myC_CompanySettings",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "myC_Compensation_2020",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "myC_Executive",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Salary_Basic_Setting",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Salary_Integration_with_PM",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Salary_Integration_With_EC",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "VP_Basic_Settings",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "VP_Integration_PM",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "VP_Integration_EC",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "myC_SalaryPayMatrix",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "myC_PayMatrixValues",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "myC_Eligibility",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Eligibilitysettings",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "B2005_Salary_Basic_Settings",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "B2005_Integration_with_EC_PM",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "myC_Variablepay",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_Basic",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Salary_EC",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_Complete",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_Template",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_EC",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "A_Co_Basic",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "CPM_Notification_myC",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Comp_Elig",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "myC_Provisoining11",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "myC_compenationplanEC",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "myC_Roles_comp",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "myC_Company",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "myC_EligibilityEC",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Julius_COMP",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "CompensationwithoutEC",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "CompensationwithEC",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Comp",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Comp",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "VariablePaywithoutEC",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "VariablePaywithEC",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Thankyou",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Salary_Basic",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Salary_Integration_EC",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Variable_Basic",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Variable_Integration_EC",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Salary_Basic_Settings",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "VP_Template",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "VP_Bonus_Goals_Weights",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Salary_Integration_EC_Adapted",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Variable_Integration_EC_Adapted",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Salary_Integrated_EC_Complete",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "routemap_comp",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "SP_B_Salary_Planning",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "SP_A_Salary_Template",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "SP_A_Salary_Planning_Template",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "SP_B_Salary_Planning_Template",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "SP_C_Salary_Planning_Template",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "SP_D_NonEC_Salary_Planning_Template",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "SP_C_Salary_Planning_Template",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "SP_D_NonEC_Salary_Planning_Template",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "BP_A_Bonus_Planning_Comp_Dep_Ind",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "BP_B_Bonus_Planning_Ind_HOD",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "FixedVal",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "FixedValueNew",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "myC_Comp_CurrencyTable_Routemap",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "myC_Comp_Provisionin",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "myC_Comp_Template",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "A_TalentC_Comp",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "myC_LTIP_Template",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "myC_Rewards_RolesGroups",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "myC_Comp_RolesGroups",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "myC_LTIP_Routemaps",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "myC_VP_Route_Map",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "myC_Comp_Eligibility",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "WOW_SpotAward2",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "WOW_Sport_Award_2",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "WOW_Program_3",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "A_WOW_Program",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "RnR_Test",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Comp_Lavinia",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Salary_Basic_Settings",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Salary_Integration_with_Performance",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Stock_Basic_Settings",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Stock_Integration_with_PM",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Variable_Pay_basic_Settings",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "RnR_Standalone_Settings",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Total_Comp_Integration_with_PM",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "RnR_Integration_with_EC",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Salary_Integration_with_EC_and_PM",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Stock_Integration_with_EC_and_PM",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Total_Comp_Integration_with_EC_PM",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Variable_Pay_Integration_with_EC_PM",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Enable_Comp_VP_Modules",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "COSalaryIntegrationECPM",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "RTU_COMP",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "COMPwithoutEC",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "VarPaywithEC",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "VarPaywithoutEC",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "PM_ROUTE_MAPS",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "SP_CompensationManagement",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "RNR_EC",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "SP_VariablePay",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "SAP_Salary_Basic_Settings",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "SAP_Salary_Integration_EC_and_PM",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "AX_Salary_Basic_Settings",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "AX_Salary_Integration_EC_and_PM",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "AX_Salary_Integration_with_PM",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Pay_Performance_Prov_Setup",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Pay_Performance_UI_Setup",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Pay_Performance_Prov_Setup",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Pay_Performance_UI_Setup",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "RNR_Prog_Names",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "RNR_Prog_Names2",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "COMP_DEMO_DATA",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Salary_MonthlyPlanning_ECIntegrated",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Variable_Pay_PointInTime_withEC",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Test_COMP_RBP",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "MC_Compensation_SampleData",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Features2105",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "SP_CompensationManagement_WithoutEC",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "ExecReview",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "A_Launch_WorkSheet",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "A_Calculate_Bonus",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "A_Calculate_Bonus_1",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "A_Compensation_Cecile",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "PaqueteCM",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "A_Rating_Source_Comp",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "VPDEMODATA",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "A_Rating_Source_Comp_Salary",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "A_Rating_Source_Individual",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "A_Compensation_NextStep",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "A_Next_Step_Manager",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "A_Move_To_Next_Step",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "A_Next_Step_CompAdmin",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "A_Next_Step_ManagerManger",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "RNR_Names",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "BestPractice_Salary_Demodata",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "LT_RNR",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "BP_Demodata_Comp",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "BP_Demodata_PMGM",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "SpotAwardProgram",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "ROUTEWORKSHEET",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "ROUTEWORKSHEET1",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Alice_Route_Comp_Next",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Executive_Review_Filter",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "RNRProgramNames",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "RNRTEST2",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "NonECCompDemodata",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "SALARYTEST",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Comp_CurrencyTable_Routemap",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "myC_Comp_Provisioning",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "myC_Comp_RolesGroups",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Comp_Template",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "myC_VP_TempEC",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "BP_Demodata_VP_1",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "VPDEMODATANONEC",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "VPDEMODATANONEC2",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "EMPLOYEEHISTORY",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "employeeHistory",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Salary_1",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Salary_2",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "NonECSalary1",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "NonECsalary2",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "CompEC",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Spotfinal",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "ThankAward",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "BP_Demodata_Salary_1",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "BP_Demodata_Salary_IN",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "BP_Demodata_Salary_BR",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "BP_Demodata_Salary_UK",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "BP_Demodata_Salary_SG",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "BP_Demodata_Salary_MX",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "BP_Demodata_Salary_FR",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "ImportNonECEmployeeHistory",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "BP_Demodata_NonEC_Salary_1",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "BP_Demodata_NonEC_Salary_SG",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "BP_Demodata_NonEC_Salary_MY",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "BP_Demodata_NonEC_Salary_IN",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "BP_Demodata_NonEC_Salary_UK",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "BP_Demodata_NonEC_Salary_MX",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "BP_Demodata_NonEC_Salary_FR",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "BP_Demodata_NonEC_Salary_BR",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "CreateCompTemplate",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "BP_Demodata_VP_FR",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "BP_Demodata_VP_IN",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "BP_Demodata_VP_GB",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "BP_Demodata_VP_SG",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "BP_Demodata_VP_MX",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "BP_Demodata_VP_MY",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "BP_Demodata_VP_BR",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "ImportBonusPlans",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "createDEIVarpayTemplate",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "DEIimportBizGoals",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "DEIImportBizGoalWeights",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "BP_Demodata_NonEC_VP_BR",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "BP_Demodata_NonEC_VP_FR",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "BP_Demodata_NonEC_VP_GB",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "BP_Demodata_NonEC_VP_IN",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "BP_Demodata_NonEC_VP_MX",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "BP_Demodata_NonEC_VP_MY",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "BP_Demodata_NonEC_VP_SG",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "DEIEnableFieldPermissions",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Rating",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "NonECBR01",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "NonECBR02",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "BP_Demodata_NoneEC_Emp_Comp_HQ_IN",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "BP_Demodata_NoneEC_Emp_Comp_HQ_IT",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "BP_Demodata_NoneEC_Emp_Comp_HQ_JP",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "BP_Demodata_NoneEC_Emp_Comp_HQ_KR",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "BP_Demodata_NoneEC_Emp_Comp_HQ_MX",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "BP_Demodata_NoneEC_Emp_Comp_HQ_MY",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "BP_Demodata_NoneEC_Emp_Comp_HQ_NL",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "BP_Demodata_NoneEC_Emp_Comp_HQ_NZ",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "BP_Demodata_NoneEC_Emp_Comp_HQ_PH",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "BP_Demodata_NoneEC_Emp_Comp_HQ_PL",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "BP_Demodata_NoneEC_Emp_Comp_HQ_QA",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "BP_Demodata_NoneEC_Emp_Comp_HQ_RO",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "BP_Demodata_NoneEC_Emp_Comp_HQ_RS",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "BP_Demodata_NoneEC_Emp_Comp_HQ_RU",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "BP_Demodata_NoneEC_Emp_Comp_HQ_SA",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "BP_Demodata_NoneEC_Emp_Comp_HQ_SG",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "BP_Demodata_NoneEC_Emp_Comp_HQ_SK",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "BP_Demodata_NoneEC_Emp_Comp_HQ_SL",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "BP_Demodata_NoneEC_Emp_Comp_HQ_TH",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "BP_Demodata_NoneEC_Emp_Comp_HQ_TW",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "BP_Demodata_NoneEC_Emp_Comp_HQ_US",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "BP_Demodata_NoneEC_Emp_Comp_HQ_VN",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "BP_Demodata_NoneEC_Emp_Comp_HQ_ZA",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "BP_Demodata_NoneEC_EmpHistory_AE",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "BP_Demodata_NoneEC_EmpHistory_AT",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "BP_Demodata_NoneEC_EmpHistory_AU",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "BP_Demodata_NoneEC_EmpHistory_BE",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "BP_Demodata_NoneEC_EmpHistory_BR",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "BP_Demodata_NoneEC_EmpHistory_CA",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "BP_Demodata_NoneEC_EmpHistory_CN",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "BP_Demodata_NoneEC_EmpHistory_CO",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "BP_Demodata_NoneEC_EmpHistory_DE",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "BP_Demodata_NoneEC_EmpHistory_DK",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "BP_Demodata_NoneEC_EmpHistory_ES",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "BP_Demodata_NoneEC_EmpHistory_FR",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "BP_Demodata_NoneEC_EmpHistory_GB",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "BP_Demodata_NoneEC_EmpHistory_HK",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "BP_Demodata_NoneEC_EmpHistory_HR",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "BP_Demodata_NoneEC_EmpHistory_ID",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "BP_Demodata_NoneEC_EmpHistory_IN",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "BP_Demodata_NoneEC_EmpHistory_IT",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "BP_Demodata_NoneEC_EmpHistory_JP",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "BP_Demodata_NoneEC_EmpHistory_KR",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "BP_Demodata_NoneEC_EmpHistory_MX",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "BP_Demodata_NoneEC_EmpHistory_MY",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "BP_Demodata_NoneEC_EmpHistory_NL",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "BP_Demodata_NoneEC_EmpHistory_NZ",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "BP_Demodata_NoneEC_EmpHistory_PH",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "BP_Demodata_NoneEC_EmpHistory_PL",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "BP_Demodata_NoneEC_EmpHistory_QA",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "BP_Demodata_NoneEC_EmpHistory_RO",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "BP_Demodata_NoneEC_EmpHistory_RS",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "BP_Demodata_NoneEC_EmpHistory_RU",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "BP_Demodata_NoneEC_EmpHistory_SA",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "BP_Demodata_NoneEC_EmpHistory_SG",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "BP_Demodata_NoneEC_EmpHistory_SK",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "BP_Demodata_NoneEC_EmpHistory_SL",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "BP_Demodata_NoneEC_EmpHistory_TH",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "BP_Demodata_NoneEC_EmpHistory_TW",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "BP_Demodata_NoneEC_EmpHistory_US",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "BP_Demodata_NoneEC_EmpHistory_VN",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "BP_Demodata_NoneEC_EmpHistory_ZA",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "BP_Demodata_NonEC_VP_1",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "COMPVGC",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "RnR_ThankyouCertificate",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_Salary_Basic",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_Salary_BR",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_Salary_FR",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_Salary_GB",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_Salary_IN",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_Salary_MX",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_Salary_SG",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_VP_Basic",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_VP_BR",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_VP_FR",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_VP_GB",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_VP_IN",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_VP_MX",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_VP_MY",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_VP_SG",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "BP_Demodat_Salary_MY",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_Salary_MY",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "salarybacis",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_Salary_Basic",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_Salary_BR",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_Salary_FR",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_Salary_GB",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_Salary_IN",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_Salary_MX",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_Salary_MY",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_Salary_SG",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_VP_Basic",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_VP_FR",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_VP_GB",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_VP_IN",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_VP_MX",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_VP_MY",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_VP_SG",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_VP_BR",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_Salary_Basic",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_Salary_GB",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_VP_Basic",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_VP_GB",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "ThankyouAward",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "BestRunAward",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Executive_Plan_w_EC",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "DEI_PLAN_w_EC",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Salary_Statement",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "CompSettings",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "DEI_VP_UPdates",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "DEI_Plan_EC_ImportEE_2",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "DEI_EC_PLAN_CAL_BONUS_3",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "AMO_AdministratorsComp_Varpay",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Client_Administrators_CompVarpay",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Client_Administrators_COMPVP",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "AMO_Administrators_COMPVP",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "ruletest",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "ruleexport",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "VGCrule",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "VGCRoutemaptest",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "VGCallrule",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "compruleimporting",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "CompRO_CreateAnnualPlan",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "RO_2105_CompPlans",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "RO_2105_2_ImportEEHistoryfromEC",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "RO_2105_3_CalculateBonus",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "RO_2105_4_LaunchWorksheets",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "RO_2105_CompleteWorksheets",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "RO_2111_MoveForm",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "ExecAdvFilters",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "PCMTest4RouteMap",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Comp_RO_2_ImportEEHistory",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Comp_RO_3_CalculateBonus",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Comp_RO_4_LaunchSheets",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Comp_RO_1_CreateCYCompTemplates",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Comp_RO_UY_1_CreatePlans",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Comp_RO_3b_CalculateBonus_SBPlan",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Comp_RO_4b_LaunchSheets_SB",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Comp_RO_4C_AP_LaunchSheets",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Comp_RO_4d_AP_LaunchSheets_SB",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "COMP_RO_CY_1_CreatePlans",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "COMP_RO_CY_2_ImportEEHistory",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "COMP_RO_CY_3a_VP_CalculateBonus",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "COMP_RO_CY_3b_SBVP_CalculateBonus",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "COMP_RO_CY_4a_VP_LaunchSheets",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "COMP_RO_CY_4b_VPSB_LaunchSheets",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "COMP_RO_CY_4c_AP_LaunchSheets",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Comp_RO_CY_4d_APSB_LaunchSheets",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Test_create_plans",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "CRO_NY_CreatePlans",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "CRO_NY_ImportEEHistory",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "CRO_NY_VP_LaunchSheets",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "CRO_NY_AP_LaunchSheets",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "CRO_NY_VP_LaunchSheets2",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "TESTPLANSwithCOMMA",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "CreateCompPlanWithComma",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "test5",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Salary_Basic_Settings",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Salary_Templates",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "TestOnly",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Test2111",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Saudia_SalaryBasicSettings",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Saudia_SalaryTemplates",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "TEST_LAUNCHFORMS_NONEC",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Onboarding Settings (CA)",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Reward and Recognition Setup for Thank You Programs",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "CREATEROUTEMAP",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "COMP_RO_GLB_SAL_LAUNCHFORMS",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "TEST_MOHAN_FORMS",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "CRO_GlobalSalary_LaunchSheets",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "CRO_Company_Biz_Launchsheets",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "CreateSPOTAwardProgram",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "TESTSPOTAWARD",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "COMP_MILESTONE_AWARDS",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "COMP_salary_basics",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "CRO_CY_2_ImportEEHistory",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "CRO_CY_2b_ImportEEHistory",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "CRO_CY_3_CalculateBonus",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "CRO_CY_4b_VP4SB_LaunchSheets",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "CRO_CY_4c_AP_LaunchSheets",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "CRO_CY_4d_AP4SB_LaunchSheets",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "CRO_CY_4_VP_LaunchSheet",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "CRO_NY_2_ImportEEHistory",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "CRO_NY_3_CalculateBonus",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "CRO_NY_APLaunchSheets",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "CRO_NY_UXVP_LaunchSheets",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "CRO_NY_VPLaunchSheets",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Step1_ExecutivePlanCreation",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Step2_ImportEEHistoryfromEC",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Step3_CalculateBonus",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Step4_LaunchWorksheets",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "RNR_Prog_Names",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "RnR_BestRun_Certificate",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "RnR_Thankingyou_Certificate",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "MSAwardsDocTemplateCreation",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "MSAwardsRBPSetup",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "CRO_CY_TEST_CREATE_PLANS",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "TESTCREATEVARPAYPLAN",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "TESTCREATEVARPAYPLAN2",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "TESTVARPLANCREATION2B",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "EnableFieldBasedPermissions",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "CRO_CY_2021_CreatePlans",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "DEI_Update_CompInfo",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "CRO_CY_1_CreateCompTemplates",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "CRO_NY_1_CreateCompTemplates",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "CRO_2022_Plans",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "CRO_NY_SB_APLaunchSheets",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "CRO_NY_SB_VPLaunchSheets",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "MSA_ImportWallets",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "CRO_NY_4_CreateTemplates4SB",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "CRO_NY_SB_ImportEEHistory",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "german_comp_Pkg",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "CompTemplate4GermanERAProcess",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "SPOTAWARD",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "MilestoneProgram",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "MilestoneWhole",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Updated_Golden_Compensation",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "KOREA_COMP_PLANS",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "CreateCompTemplates4Korea",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "AP_FieldBasedPermissionsByRole",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "TestAnnualTemplate",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "MILESTONE",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "TotalCompTemplate4Korea",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Korea_VPPlanLaunchSheets",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "IMPORT_PONITS",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "KO_CreateCompTemplates",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "KO_LaunchSheets",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "KR_TOTALCOMP",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "KO_CreateTotalCompPlan",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "KR_TotalComp_Launch_Sheets",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "SPOTAWARD_PROGARM_UPDATES",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Comp_statement_Template",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "budget",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "CreateBudget",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Calibration",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "MSAwardsConfig",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "CAL_TEST",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "ADD_VP_IND_VIEW_PP3",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "ADD_VP_IND_VIEW_PeopleProfile",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "DynamicGroups",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "VPIndViewRouteForms",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "HomePageTile",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "GOLDEN_Compensation_Basic",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "GOLDEN_Compensation_Integration",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Salary_basic_Settings",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "TotalCompPlan_LaunchWorksheets",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "SF12312",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Comp_Lookup",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "comp_template_1",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "KO_LaunchVPSheets",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "KO_CalculateBonus",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "KO_ImportEmployeeHistory",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "CreateMilestoneAward",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "MSAwardCreation",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "CreateMSAward_2205",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Reward and Recognition Setup for Milestone Award Points-based Program",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Milestone",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "EEGroup",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "TestMSACreation",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "TestSettings",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Milestone_Program",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "ManageLanguage",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "EE_OT_data_2111",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "GB_JobTransferEvent",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "SPM_DemoData",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "CompWarningMessageUpdate",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "VStest2",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Point_Type",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "BirthdayMilestoneAwardCreation",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "BirthdayMSAwardCreation",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "MSPointTypesWalletsCreation",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "DNA_COMP_CURRENCY_CONVERSION_T1",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "DNA_COMP_ROUTE_MAP_T1",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "DNA_COMP_SALARY_REVIEW_NON_EC_T1",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "DNA_COMP_ADMIN_USER_T1",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "DNA_COMP_RBP_PERMISSION_GROUPS_T1",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "DNA_COMP_RBP_PERMISSION_ROLES_T1",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "DNA_COMP_RBP_GRANTINGS_T1",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "AnnualPlanwithCountryLevelBudget",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "BIRTHDAT",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "DNA_COMP_CURRENCY_CONVERSION_T2",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Test_Salary_Integration",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "CustomMerit",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "RNR_WithEC_v0623",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "RNR_ThankYou",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "RNR_Milestone",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Baker_RNR_WithEC",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Baker_RNR_StandAlone",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Basic_Settings",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "With_EC",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "ManageStatmentTemplatesSuccessStore",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_MENA_LowScope",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "MoveToNextStep",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "LIFEEVENT",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "CompTemplate_Integration_PMGM_EC",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Business_Rule_Update",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_Table",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Update_Company_Settings",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Update_Role",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Import_Salary_Template",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "RatingSources",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Assign_Permission_Group",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Updating_Rating_Source",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Assign_RouteMap",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Create_Assign_FBP",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Update_Advanced_Settings",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Assign_EligibilityRule",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Apply_Eligibility_Rule",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "EFP",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "FBP",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "FormAdvancedSettings",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "FormAdvancedSettings",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Advanced3",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Advanced4",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Salary_basic_setting",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "COMP",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "COMP_MENA_LOW",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_MENA_Low",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "RDS_Comp_Basic_Settings",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "RDS_Salary_Integration_EC_PMGM",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "RDS_Pay_Component",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "RDS_Stock_Basic_settings",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "RDS_Reward_Recognition_Thank_You",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "RDS_Reward_Recognition_Milestone_Aw",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "RDS_VP_EC",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "RDS_VP_PMGM",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Total_Compensation_PMGM",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "RDS_Rew_Rec_Currency",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "SPM_COMM_DATA",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "RSD_PayType",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "SPM_Commissions_Data",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "RDS_TotalComp_EC_PMGM",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "RDS_TotalComp_PMGM",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "RDS_Stock_EC_PMGM",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "RDS_Stock_PMGM",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "RDS_SalaryInt_EC_PMGM",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "RDS_RewRec_EC_Currency",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "SuccessStore",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "FoundationIDReplacement",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Activate_Compensation",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "COMP_Salary_Basic_Settings",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "COMP_Prereq",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "SalaioGeral_Comp",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "EU000401_COMP_PROV_RBP",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "EU000402_COMP_SAL_BASIC",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Comp_ECPM_Geral",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "StatementTemplates",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "COMPTEST",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "CompWoEC",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "RenameTemplate",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Comp_BudgetReport",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "comp_vp_interoperability",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "RBP4Analytics",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Budgets",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "PlayGround",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "MarketCompositePlan",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "BudgetSpentOVerview",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "PublishCompFormsToEC",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "ManageStatementTemplate",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "ManageStatmentTemplate",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "EU000403_VP_BASIC",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "EU000404_VP_ECPM",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "CRO_CY_ManageStatementTemplates",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "CB2022",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "OverwriteTemplates",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "UpdateVarpPayRefId",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "RouteMapUpdate",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "LinkCYPlans",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "KO_2022_CreateCompTemplates",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "ManageCompTemplates",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "KO_UpdateTemplates",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "HistoryData",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_VP_AE",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Cpm_salarytest",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "CompForm_without_PerformanceRatings",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_VP_Wroksheet",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_CompAdmin",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_VP_AR",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_VP_CA",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "RBPCompPermissions",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_VP_CL",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_VP_CN",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_VP_CZ",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_VP_DE",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_VP_DK",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_VP_EG",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_VP_ES",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_VP_FI",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_VP_HK",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_VP_HR",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_VP_HU",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_VP_ID",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_VP_IE",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_VP_IL",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_VP_IT",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_VP_JP",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_VP_KR",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_VP_KW",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_VP_LU",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_VP_NL",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_VP_NO",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_VP_NZ",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_VP_PE",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_VP_PH",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_VP_PL",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_VP_PT",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_VP_QA",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_VP_RO",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_VP_RS",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_VP_SE",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_VP_SK",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_VP_SL",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_VP_TH",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_VP_TR",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_VP_TW",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_VP_US",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_VP_VN",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_VP_ZA",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "AQH_SalaryBasic",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "SuccessStore",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_VP_CH",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_Salary_AE",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_Salary_AR",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_Salary_AT",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_Salary_AU",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_Salary_BE",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_Salary_BG",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_Salary_CA",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_Salary_CH",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_Salary_CL",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_Salary_CN",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_Salary_CO",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_Salary_CZ",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_Salary_DE",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Reward2022",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "RouteFormTry",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_Salary_DK",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_Salary_EG",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_Salary_ES",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_Salary_HK",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_Salary_HR",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_Salary_HU",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_Salary_ID",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_Salary_IE",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_Salary_IL",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_Salary_IT",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_Salary_JP",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_Salary_KR",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_Salary_KW",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_Salary_NL",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_Salary_NO",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_Salary_NZ",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_Salary_PE",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_Salary_PH",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_Salary_PL",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_Salary_PT",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_Salary_QA",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_Salary_RO",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_Salary_RS",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_Salary_RU",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_Salary_SA",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_Salary_SE",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_Salary_SK",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_Salary_SL",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_Salary_TH",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_Salary_TR",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_Salary_US",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_Salary_VN",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_Salary_ZA",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "upGrad_Salary_Basic_Setting",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "AQH_BasicSalarySettings",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "AQH_Compensation",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "AQH_CompPerfIntegration",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "DEI_Executive_Plan",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "AQH_EC_PM_Integration",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "CompAnnualRevision",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "CompNew",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "AnnualSalaryRevisionPlan",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "FormTemplateSettingsRelative",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "AQH_Mena",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "korea_overwrite",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_Salary_Basic",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_Salary_SG",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_Variablepay_Basic",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_Variablepay_SG",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "MGR_RATINGS",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "EE_RATINGS",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "RatingSources",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "CreateTemplates",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "CreateTemplates",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "LaunchCompSheets",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_VariablePay_Basic1",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "CompBasic",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "SalaryIntegrationEC_PMGM",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Salary_Integration_EC",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Reward_and_Recognition_ThankYou",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Reward_and_Recognition_Milestone",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Reward_and_Recognition_Currency",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Total_Compensation",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation45Q",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "COMP_BASICS",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "COMP_EC_PMGM_INT",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "BB10_Onboarding_Form_Creation",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "MktBenchmarkReport",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "ImportAdvancedTemaplateSettings",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "VarPay_Settings",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "R2R_HE_COMP_Salary_Basic_Settings",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "R2R_HE_COMP_Integration_With_PM",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "R2R_HE_COMP_Integration_With_EC_PM",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "R2R_HE_COMP_Stock_Basic_Settings",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "R2R_HE_COMP_Stock_Integration_EC_PM",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "R2R_HE_COMP_Stock_Integration_PM",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "R2R_HE_COMP_VP_Basic_settings",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "R2R_HE_COMP_VP_Integration_EC_PM",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "R2R_HE_COMP_VP_Integration_With_PM",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "R2R_HE_COMP_RR_Setup_Currency_Prog",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "R2R_HE_COMP_RR_Integration_EC",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "GROWW_SF_Comp_EC_PMGM_Config",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "MBOrelevantContent",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "ManageCompanySettings",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "R4HR_template",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "R4HR_Comp_2",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "TESTCOMP_PM",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "RatingIndividual",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "LinkPM_COMP",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "RatingSource",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Comp_Global",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Nordics",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Global",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Comp_Global_NoMapping",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Comp_Nordics_NoMapping",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "dinext_Compensation",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "CompDemo",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Variable_pay_basic",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Variable_Pay_Integration",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Salary_basic",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "PMGM_MBO_Italy_3a",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "PAYCOMPONENTS",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "zCOMSalaryPlan_DRAFT",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "zDC_COMSalaryPlanBaseline",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "TATA_Salary_Basic_Settings",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "TATA_VariablePay_BasicSettings",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Nordics_Template",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "CompCustomerView",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "MonsterCompSalaryBasic2305",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "MonsterCompVarPayBasic2305",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "MonsterCompStock2305",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "TEST1",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "TATA_RnR_MilestoneAward",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "TATA_COMP",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "TotalCompensationECPMGM",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "TATA_VP_ECPMGM",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "DataModelComp",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_Global2311",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_Nordics2311",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Comp_Nordics",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_Salary_OM",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_Salary_GR",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_Salary_NG",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_Salary_KZ",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_VP_OM",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_VP_GR",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_VP_NG",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_VP_KZ",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "France_Comp2",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "France_Comp3",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "comp_Int_pmgm",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "ITA_DEFERRED_COMP_PLAN",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "R2R_HE_COMP",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Comp_Eligibility_Rules",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "R2R_HE_VP_Basic_Settings",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "R2R_HE_VP_Integration_With_EC_PM",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "R2R_HE_COMP_Basic_Settings",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "R2R_HE_COMP_Integration_With_EC_PM",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "NuevoPlanVARPAY",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "CRO_CY_RouteNPublish",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "CompBasics",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "COMP_EC_PMGM_INT",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "PayComponentsCOMP",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "ITA_DEFERRED_PLAN",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "ITA_DEFERRED_2",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "COMP_Enhancements",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "companySettings",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Comp_Statement",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "VarPay_Enhancements",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "PermissionDFO",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Comp",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "TEST_Comp",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "CompensationTable",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "TEST",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "SDM",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Comp_Nordics_1_NMapping",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Comp_Nordics_1",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Comp_Nordics_2",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Comp_Global_1",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Comp_Global_1_NMapping",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Global_Template",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Nordics_Template",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "COMP_BASICS",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "COMP_PMGM_EC_INT",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Comp_Global_Template_V2311",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Comp_Nordics_Template_V2311",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "UpdateWorksheet",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "GenerateStatement",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "PointBasedAwardEmailZIPImport",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Final_Compensation_Global",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Final_Compensation_Nordics",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "TestCatCompBasics",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "compsaltemplate",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "COMPVP_Rizing_Admin",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_Nordics_2405_v1",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_Global_2405_v1",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "R2R_HE_VP_Basic_Settings_v2",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "R2R_HE_VP_Integration_With_EC_PM_v2",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Exercise9Compensation",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Comp",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Exercise9_Compensation",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Excercise9",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Exercice_9",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "COMPENSATION",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "COMP_AdvancedSettings",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "myC_Permission_Roles",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation",
+        "PRODUCT": "Compensation"
+    },
+    {
+        "UPGRADE_ELEMENT": "Comp_RouteMap",
+        "PRODUCT": "Compensation"
+    }
+]

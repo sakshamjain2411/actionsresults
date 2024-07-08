@@ -1,0 +1,2246 @@
+[
+    {
+        "UPGRADE_ELEMENT": "Onboarding Global Setup",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Onboarding of Internal Hire Global Setup",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Offboarding Global Setup",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Onborading2IntegrationSetup",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ConvertExternalUserOnStartDateJob",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONB_RBP",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONBBusinessRule",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONBUniformRule",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ConfigureTask",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONBDay1WhattoBring",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONB_GLO",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONB_GLOBAL",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONB_InternalHire",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "AA_CP",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "AA_CP1",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONB_GlobalONB",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONBProgram_Import",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONBProgram01",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Onboarding/Onboarding of Internal Hire Integration with SuccessFactors Recruiting",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "OnboardingBasicSettigns",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Best_Practices_ONB_Global_Setup",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Best_Practices_Company_Settigns",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "A_Custom_Onboarding_Basic",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "A_Custom_ONB_GlobalSetup",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "A_Custom_ONB_Internal_Hire",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "A_Custom_Offboarding",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "GayatriOnbPerf",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONB_PAVIADEV",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONB_GLO_PAVIADEV",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONB_BASIC_PAVIADEV",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONB_GLOBAL_2005PAVDEV",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONB_BASIC2005_PAVIADEV",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONB_GLOBAL_B2005PAVIADEV",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "BASIC_ONB_2005V2",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONB_GLO_SAMPLE",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "myC_ONB2_ProvBPE1",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "myC_ONB2_ProvOther2",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "A_ONB_Process_Variant_2",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "myC_ONB2_ScheduleJobs_3",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "myC_ONB2_RBPRoles",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "myC_ONB2_Groups_4",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "myC_ONB2_RBPRoles_5",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "myC_ONB2_RolestoGroups_6",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "myC_ONB2_AssignServiceUser_7",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "myC_ONB2_DynamicGroup_8",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "myC_ONB2_RespGroups_9",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Onboarding Settings (UK)",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Onboarding Settings (US)",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Onboarding Settings (AU)",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Onboarding",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONB_Global_Setup",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Onb_RBP_Group",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "myC_ONB2_EquiTypeValue_10",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "myC_ONB2_PrepforDay1_11",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "myC_ONB2_OnbPrpogram_12",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "checklistitems",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "myC_ONB2_Rules",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "myC_ONB2_Emails",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "myC_ProcessVariant_15",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "myC_ONB2_CustomObjects_16",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "myC_ONB2_TransportObject_17",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "myC_ONB2_ConfigUI_18",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "myC_externalUser_MDFrole",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "myC_INT_RecHireMapping",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "RecruitToHireNK0512",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "NKRecruitToHireMapDec8",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Aramark",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "myC_RCM_Templates_22_dec",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Cargill",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONB_BASF_Global_Setup",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONB_BASF_BasicSettings",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONB_BASF_Internal_Hire_Global_Setup",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONB_BASF_Offboarding_Global_Setup",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "RCM_Integrated_with_ONB",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONB_Common_1Half",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONBPrograms",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "EmailServices",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Permissions_Role",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "PR_1",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONB_HESA",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "HESA_Obj_Definition",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "HESA_Business_Rule",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "HESA_Obj_Definition_UI",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "myC_ONB2_Prov_Settings_B1",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "myC_ONB2_Basic_Settings_B2",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Transport",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "WorkFlowGroupNKJan25",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ImportRuleContext",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "HESA_Base_Object",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "myC_ONB2_GlobalProg_B3",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "myC_ONB2_RulesEmailsDpcs_B4",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "myC_ONB2_CustomObjects_B5",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "myC_OFB2_EmailRules_B6",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "myC_OFB2_Program_B7",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "myC_Cross2_InternalRole_B8",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "myC_INT_Provisioning_B9",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "myC_ONB2_GlobalWC_B3",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "myC_ONB2_EmailsRulesDPCSWC",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONB",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "LN_ONB_BasicSettings",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "LN_ONB_GlobalSetupConfigurations",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONB2_Basic_CO",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONB2_InternalHire_CO",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONB2_Off_CO",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONB2_RCM_CO",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "LN_ONB_BasicSettings_v2",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Basic_ONB_B2",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONBB1",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONBB2",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONBB3",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONBB4",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONBB5",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Enable_ONB_2_Switch",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "CreateDocumentTemplate",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ImportRuleReplaceDocument",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ImportRuleReplacement",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Aramark_EmailServices_Production",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "SP_Onboarding_GlobalSetup",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "MZ_ONB2_Gen_Sett",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "MZ_Global_Sett",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "RCM_ONB2_INT",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONB2_Prov_Setup",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONB2_UI_Setup",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "A_Onboarding_Mapping",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "DynamicGroups",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Onboarding2_Prov_Setup",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Onboarding2_UI_Setup",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONB_MDF_PERM",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Test_Ar",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Test_Role_Ar_pro",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONB2_AU",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "myConcertoOnboardingBasicSetting",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "myCGrpRolesJobs",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "myCAdditionalDataCollection",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "myCOFBProgRulesEmail",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "myCIntHireRole",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "myCDocumentTemplates",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "myCProvisioningSettings",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "RedSeaBasicSettings",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "onb2",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "SP_Onboarding_IntegrationRCM",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "SP_Onboarding_SettingsUS",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "SP_Onboarding_SettingsAU",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "SP_Onboarding_SettingsUK",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONB_USCompliance",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "prog_Addec",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "adeccoofbemail",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONB2CentralOrientationMeeting",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONBTranslations",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "lv_program",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "LV_Emails",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ofbemailsLV",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "proquirenewUI",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONB_EDGE_Block",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ACN_ONB_Provisioning_Settings",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ACN_ONB_Admin_Permissions",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ACN_ONB_Basic_Settings",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Basic_Settings_onb",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ReplaceDocId",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ACN_ONB_Recruit_Hire_Mapping",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "DEV2COnfig",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "MHP_ONB_BestPractice",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Onboarding_Global_Setup",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Onboarding_of_Internal_Hire_Global",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONB_of_Internal_Hire_Integra_REC",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Offboarding_Global_Setup",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Onboarding_Settings_US",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Onboarding_Basic_Settings",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ServiceUser",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONBRBP",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONBRBP1",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONBRBP",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONBPermissionUI",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONBUIPermission1410",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Basic_Setup",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "AMO_Administrator_ONB",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Client_Administrator_ONB",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "AMO_Administrator_ONB",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "AMO_Administrator_ONB1",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Client_Administrator_ONB1",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONBTranslations",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONB2111Packages",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Onboarding",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONBProcessRestart",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONBRestartProcess",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ACN_OFB_Basic_Setting",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ACN_ONB_Basic_Settings2",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "SetONBServiceUser",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "testIONBJobsDec22",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "API_USER",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ACN_API_Roles",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Onboarding",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Onboarding_Basic_Settings",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "OFF",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONBUSA",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONBCAN",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONBGLOBAL4",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "PCM_ONB2_Tasks",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "DNA_ONB_001_Globalsetup",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONB2BasicSettings",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ACN_ONB_Program",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "DNA_ONB_AUS_Setup",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "DNA_ONB2_Basic",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "DNA_OFB_Setup",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONB_RPConfig",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONB2_Program",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "OFB_Tasks",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Onboarding_Activation",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONB2_DNA_Form",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONB_DNA_R2HMapping",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "DNA_ONB_RBP",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "DNA_ONB_SAMPLEFORM",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "DNA_COMPLIANCE_AUSTRALIA",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "DNA_GLOBALSETUP",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "DNA_ONB_RBP",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "DNA_OFB_SETUP",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "DNA_OFB_PROGRAM",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "DNA_OFB_RBP_SETUP",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONBMUBA",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "DNA_RCM_PremROLES",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONB_RCM",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONBAccorOnboardingBasicSettings",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONBAccorOnboardingGlobalSetup",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONBAccorOnboardingSettings_UK",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONBAccorInternalHireGlobalSetup",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONBAccorIntegrationRecruiting",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "OFBAccorOffboardingGlobal_Setup",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONBAccorOnboardingBasicSettings_01",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONBAccorOnboardingBasicSettingsP01",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONBAccorOnboardingBasicSettingsP02",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "myC_ONB_Emails",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Onboarding Basic Setup for External HRIS",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "myC_ONB_Roles_RCMEC_preconfigured",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ACN_ONB_Roles",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONB_NO",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Liebherr_Crossboarding_Recruiting",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "OFB2_GlobalSetup_v2205",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONB2_BasicSettings_v2205",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONB2_GlobalSetup_v2205",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "day1",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Gratuity1",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "UT_ONB_Test_2706",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "GratuitySud",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONBoarding_Copy",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "VPMC_ONB",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Test_Onboarding_Extraction",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "BB7_Onboarding_WhatToBring",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "BB1_Onboarding_Basic_Settings",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "BB2_Onboarding_Equipment_Creation",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "BB3_Onboarding_Process_Variant",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "BB4_Onboarding_Responsibility_Group",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "BB8_Onboarding_Notifications",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "BB5_Onboarding_Hiring_Program",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "BB6_Onboarding_Offboarding_Program",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "BB9_Onboarding_Work_Permit_Solution",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "RTU_ONB",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Onboarding_Prov_Setup",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Onboarding_UI_Setup",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "TOLL_Onboarding",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "BB11_Offboarding_Survey_Custom",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONB2_RBP_New051022",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Ex",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "B12_Onboarding_Person_Type",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "BB13_Compliance_Configuration",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Onboarding_Basic_Settings",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Onboarding_Internal_Hire_Global",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Offboarding_Global_setup",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Onboarding_Internal_Integration_RCM",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Onboarding_Basic_External_HRIS",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "BB14_Onboarding_Permission_Groups",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "BB15_Onboarding_Dynamic_Groups",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Package_A",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Onboarding",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "BB16_Onboarding_Permission_Roles",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "upGrad_Onboarding",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "upGrad_Offboarding",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "BB14_2211_ONB_Permission_Group",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "BB15_2211_ONB_Dynamic_Groups",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "BB16_2211_ONB_Permission_Roles",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "upGrad_ONB_Custom",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "HRoDONB",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "demandONB",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Panasonic_ONB_Prod",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_VP_CO",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "onb11880",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "onb11880",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "DNA_ONB_HEALTH_SETUP",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Compensation_DemoData_Salary_FI",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "myC_ONB_InternalEmpoloyee",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "DNA_HEALTH_ONB",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "BB18_OFB_SURVEY_VERSION_2",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONB_Program",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Onboarding_Basic",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Onboarding",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONB_Internal_Hire",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONB_global_Setup",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONB_basic_setup_external_HRIS",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Onboarding_GlobalSetup",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONB_New_Hanna",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONB_AddDataCollection",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "NMOnboardingExternalUser",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "BB17_ONB_Upload_Documents_Solution",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "BP_Onboarding_2BM",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "BP_Offboarding_2BM",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "BP_OnboardingGlobal_2BM",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "BP_ONBIntegration_2BM",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "VP_ONB_ROLES_TESTBELEN",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Onboarding2_Prov_Setup",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Onboarding2_UI_Setup",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "RHook",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Onboarding_1_Basic_Settings",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Onboarding_2_Internal_Hire_Global",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Offboarding_3_Global_Setup",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Onboarding_5_Basic_External_HRIS",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "BPTes",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "rTest",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "SDE",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Onboarding_Internal_Integration_Rec",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Onboarding_4_Internal_Integ_Rec",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONBRoleTest",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "OnboardingInternal",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Offboarding_Setup",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Role",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONB_Import_Role",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Testrole",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONBglobalSetup",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONBbasics",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "BB1_ONB_Basic_Settings",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONB_OFB_User_Role",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONB2MappingNew",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "SyncRBPJobs",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONB2mapping",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "MapOnb2",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "DNA_OFB_UserRole",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "VariantManagere",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONB_SF_ROLES_ASUTIN",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "DNA_RBP_ROLES",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "AT",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "EXRoleImp",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONBRole",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Birlasoft_ONB",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "BirlaSoft_ONB_GlobalSetup",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "DynamicTeamsTest",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "DynamicTeamTests",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Global_SetUp_ONB_US",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Global_SetUp_ONB_CA",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "US",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ProcessVariant",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "BPProcessVariant",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "CreateObjAndKeyResult",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "groww_onb",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "PDC",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ADC",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Onboarding_General_Setup",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Onboarding_ADC",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Onboarding_PDC",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Onboarding_Integrated_with_RCM",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Onboarding_Settings_US",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Onboarding_Settings_UK",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Onboarding_Settings_AU",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Onboarding_Settings_NZ",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Onboarding_Settings_CA",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "dynamicTeamsPack",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "a",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "DynaTeamAndMembers",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "MemberUpdate",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Onboarding_Basic_Settings",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Accenture_Onboarding_Basic_Settings",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Onboarding",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Offboarding_GlobalSetup",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "RG_Permission_Roles",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "CopyOfONB",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONB_BP_Basic",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "LN_ONB_BasicSettings_2305_v1",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "LN_ONB_GlobalSettings_2305_v1",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "POL_ONB_Translations",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "OffboardingGlobalSetup",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Onboarding_Global_Setup",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONB_Demo",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "DC_Migration_Automation",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Onboarding2_Prov_Setup_2",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Onboarding_Basic_Settings_BP_MJU",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONB_Basicsettings",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Offboarding_Sari",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "New_role_SalesDemo",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "NEWRGROLE",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "OMGANESH",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "SP_Offboarding_GlobalSetup",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "publicsector",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "RBP_Onboarding_Migration",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Offboarding",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "BB1_ONB_Basic_Settings",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "BB2_Onboarding_Equipment_Creation",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "BB4_Onboarding_Responsibility_Group",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "BB5_Onboarding_Hiring_Program",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "BB6_Onboarding_Offboarding_Program",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "BB7_Onboarding_WhatToBring",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "BB8_Onboarding_Notifications",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "BB10_Onboarding_Form_Creation",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "BB11_Offboarding_Survey_Custom",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "BB13_Compliance_Configuration",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "BB14_ONB_Permission_Group",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "BB15_ONB_Dynamic_Groups",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "BB16_ONB_Permission_Roles",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "BB17_ONB_Upload_Documents_Solution",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "BB18_OFB_Survey_Version_2",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Manager4N9",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ManagerONB",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "BP_Offboarding",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "DNA_PreReq",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "SP_Crossboarding_GlobalSetup",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONB_Basic_Settings_Integration_REC",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONB_Basic_Settings_Integration_REC",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONB_Basic_Set_Integration_REC_Sarib",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "TATA_ONB_Basic_Settings",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "TATA_Offboarding",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Onboarding_2",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Manju_ONB_PANA",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONBCustomMDF",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONBCustomMDF",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONBCustomExitQuestionnaire",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Alight_FT_ONB_Global_Bundle",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Alight_FT_ONB_Global_Bundle_O",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "BPOnboardingGlobalSetting",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "BPOnboardingSettingsUS",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONB_India",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Onboarding_Global_Setup",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONB_Basic_Settings_Integration_REC",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Onboarding_backup",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "CustomMDF_ExitQuestionnaire",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "BP_LATAM_ONB_MDF",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "BP_LATAM_ONB_RPB_EU_V1",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Offboarding_GlobalSetupV1",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Onboarding_Basic_SettingsV1",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Onboarding_Global_SetupV1",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONB2RespGroup",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Test",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Alight_FT_ONB_Global_Bundle_Comp_Vi",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "DC_ONB_Basic_Settings",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "DC_OFF_Basic_Settings",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ExportECFields",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONB",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "DynamicGrp",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Onboarding_Global_SetupV1",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Onboarding_Basic_SettingsV1",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Offboarding_GlobalSetupV1",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONB_Basic_Settings_IntegrationRECV1",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONBBasics",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONBGlobalSetup",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "OFFGlobalSetup",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Onboarding_Global_Setup_2311",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Onboarding_Basic_Settings_2311",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Offboarding_GlobalSetup_2311",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONB_Basic_Settings_IntegrREC_2311",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONB_cust_ONB2Uniform",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "NewHire",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Cenovusemails",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "cenovusOFBemails",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Internal_Hire",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "OFB_ONB2OffboardingActivitiesConfig",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONBBasicSettings",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "TUVbasicsettings",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "MyCONBhourlyProgram",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "OnbBasic",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "OnbMeu",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "OnbMeuGlobal",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Offboarding",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONBBasics",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONBglobal",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "OnboardingBasics",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONBglobal",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONBBasics",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Offboarding",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONB_RBP",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONBRBPReview",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONBRoleAssignment",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "OFBRBPReview",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "OFBRoleAssignment",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "OFBAssignment",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "AssignmentTracy",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONB_ProcessVariant",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "EmploymentProfileAssignment",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "EPSPermission",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Integration",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Settings",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "SetUp",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "SetUp",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Onboarding_Basic_Settings",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "RPA_Onboarding_Migration_Eric",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONB_Global_Setup_UK",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONB_INT_Hire_Global_Setup",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "OFB_Global_Setup",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONB_INT_HIRE_ONB_OFB",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "OFFB_SetUp_V2311",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONB_Integration_V2311",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONB_SetUp_V2311",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONB_Settings_V2311",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "cust_ONB_Medical_Questionaire",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Ajanta_BP_onbGlobalsetup",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Ajanta_ofb",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Esteelauderbasicsettings",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Esteelauderonbhourly",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "B2Gold_Onboarding_Basic_Settings",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "B2Gold_Onboarding_Global_Setup_CA",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "B2Gold_Offboarding_Global_Setup",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "B2GOLD_ONB_BASIC_SETTINGS",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "test",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "B2Gold_ONB_Int_RCM",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONB_Rizing_Admin",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Onboarding_Global_Setup_2405_v1",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Onboarding_Basic_Settings_2405_v1",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Offboarding_GlobalSetup_2405_v1",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONB_ADC_DefaultAttachment",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Initial_Setup",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "VPMC_ONB_Provisioning_Settings",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "VPMC_ONB_Create_Permission_Groups",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "VPMC_Create_US_ONB_I9_Respon_User",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "VPMC_Create_GLB_ONB_HR_Admin",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "VPMC_Create_GLB_ONB_OFBEmp_OnSelf",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "VPMC_Create_ONB_System_Admin",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "VPMC_Create_GLB_ONB_Managers",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "VPMC_Create_GLB_ONBOFBKnow_Trans",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "VPMC_Update_ONB_External_User",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "VPMC_Update_ONB_BPE_Admin",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "VPMC_ONB_Picklist",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "VPMC_ONB_Provisioning_Jobs",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "VPMC_ONB_Rules",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Exercise8Onboarding",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONB",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONB_Test_1",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONB_Test_2",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Exercise8_Onboarding",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "VPMC_ONB_Policy_Agreement",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "VPMC_ONB_Recruit_To_Hire_Mapping",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Excercise8",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "VPMC_ONB_ObjDef_UI",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "VPMC_ONB_Hire_Template",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONB_Test3",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Ajanta_ONB_Forms",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ExternalUserExport",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ExerciseOnboarding",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Onboarding",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "onboardingbestpracticescopy",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "DC_ONB_Basic_Settings",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "DC_OFF_Basic_Settings",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "EXOnboarding",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Exercise8a",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Caliber_Exercise_8",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONB2Job",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONBREADY1",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "REHIRE",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ProcessVariant",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONBSTANDARDMAILS",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONBPROCESSVARIANTFAST",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONBPROCESSVARIANTREADY4HR",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONBPROVISIONING",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONBPROGRAM",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ESIGNATURE",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "ONBADDITONALDATACOLLECTION",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "cust_ONB_Medical_Questionaire",
+        "PRODUCT": "Onboarding 2.0"
+    },
+    {
+        "UPGRADE_ELEMENT": "Dynatracebasicsettings",
+        "PRODUCT": "Onboarding 2.0"
+    }
+]
