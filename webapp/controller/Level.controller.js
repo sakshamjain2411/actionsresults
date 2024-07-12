@@ -12,32 +12,6 @@ sap.ui.define([
 	return Controller.extend("actionsresults.controller.Level", {
 		_selectedData: [],
 		onInit: function() { 
-			// jQuery.sap.registerResourcePath("highcharts", "actionsresults/lib/highcharts");
-			// jQuery.sap.registerResourcePath("exporting", "/sap/fiori/zmpsaleschips/WebContent/tiles/exporting");
-			// jQuery.sap.require("highcharts");
-			// jQuery.sap.require("exporting");
-			// jQuery.sap.registerResourcePath("3d", "/sap/fiori/zmpsaleschips/WebContent/tiles/3d");
-			// jQuery.sap.require("3d");
-			// jQuery.sap.registerResourcePath("exportData", "/sap/fiori/zmpsaleschips/WebContent/tiles/exportData");
-			// jQuery.sap.require("exportData");
-
-			setInterval(function() { 
-
-				if (window.location.href.split("siteId=")[1] == "146d771f-cf10-4920-9a7d-b31972423c89#Shell-home") {
-					// if (self.stat == true) {} else {
-					// 	jQuery.sap.includeStyleSheet("../../../../sap/fiori/zmpsaleschips/WebContent/tiles/Lpcust.css", "CUST");
-					// }
-					// self.stat = true;
-					$(".sapUshellHeadTitle").text("Home");
-				} else {
-					// if (self.stat == false) {} else {
-					// 	jQuery.sap.includeStyleSheet("../../../../sap/fiori/zmpsaleschips/WebContent/tiles/Lpcust2.css", "CUST");
-					// }
-					// self.stat = false;
-
-					$(".sapUshellHeadTitle").text("Best Practices Usage Dashboard");
-				}
-			}, 100);
 		},
 		boldName: function(sName) {
 			if (sName != null) {
@@ -45,15 +19,7 @@ sap.ui.define([
 			}
 		},
 		defaultname:function(sName){
-			if(sName!=null){
-				var modelAdmin = sap.ui.getCore().getModel("superadmin").getData();
-				if (modelAdmin=="superadmin") {
-					return sName;
-				}else{
-					var res = sName.slice(0, 2);
-					return res+"***";
-				}
-			}
+			return sName;
 		},
 		onAfterRendering: function() {
 			var superadmin = new sap.ui.model.json.JSONModel();

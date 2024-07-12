@@ -7,7 +7,7 @@
       "version": "1.0.0"
     },
     "title": "New Customers",
-    "description": "HXM Usage Dashboard New Customers",
+    "description": "HXM Usage Dashboard",
     "dataSources": {
       "mainService": {
         "uri": "/sap/sfsf_repo/service/services.xsodata/",
@@ -24,8 +24,9 @@
         "actionsresults-display": {
           "semanticObject": "actionsresults",
           "action": "display",
-          "title": "{{flpTitle}}",
-          "subTitle": "{{flpSubtitle}}",
+          "title": "New Customers",
+          "subTitle": "HXM Usage Dashboard",
+          "icon": "sap-icon://customer",
           "signature": {
             "parameters": {},
             "additionalParameters": "allowed"
