@@ -3,10 +3,17 @@
   "authenticationMethod": "route",
   "routes": [
     {
-      "source": "^/sap/.*/(.*)$",
+      "source": "^/sap/sfsf_repo/service/services.xsodata/(.*)$",
       "target": "/$1",
       "destination": "UCReport_BAS",
       "authenticationType": "none",
+      "csrfProtection": false
+    },
+    {
+      "source": "^/odata/v4/report/(.*)$",
+      "target": "$1",
+      "destination": "Upgrade-Elements-Destination",
+      "authenticationType": "xsuaa",
       "csrfProtection": false
     },
     {

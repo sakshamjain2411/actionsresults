@@ -21,7 +21,7 @@ sap.ui.define([
 		defaultname:function(sName){
 			return sName;
 		},
-		onAfterRendering: function() {
+		onAfterRendering: async function() {
 			var superadmin = new sap.ui.model.json.JSONModel();
 			sap.ui.getCore().setModel(superadmin, "superadmin");
 			superadmin.setData("");
@@ -170,180 +170,33 @@ sap.ui.define([
 				var fromCompDate = fromDate.toISOString();
 				var toCompDateTemp = Datetoday.toISOString();
 			}
-			
-			
-			
-			// var oModelUpgradeRecruit = new sap.ui.model.json.JSONModel();
-			// oModelUpgradeRecruit.setSizeLimit(50000);
-			// sap.ui.getCore().setModel(oModelUpgradeRecruit, "oModelUpgradeRecruit");
-			
-			var oModelUpgradeRecruitEC = new sap.ui.model.json.JSONModel(sap.ui.require.toUrl("actionsresults/model/EC.json"));
-			oModelUpgradeRecruitEC.setSizeLimit(50000);
+
+			let aResponse;
+			const sServiceURL = this.getOwnerComponent().getManifestObject().resolveUri(`odata/v4/report/UpgradeElements`);
+			aResponse = (await (await fetch(sServiceURL.concat(`?$filter=PRODUCT_NAME eq 'Employee Central'`))).json());
+            const oModelUpgradeRecruitEC = new sap.ui.model.json.JSONModel(aResponse.value);
 			sap.ui.getCore().setModel(oModelUpgradeRecruitEC, "oModelUpgradeRecruitEC");
 
-			var oModelUpgradeRecruitSM = new sap.ui.model.json.JSONModel(sap.ui.require.toUrl("actionsresults/model/SM.json"));
-			oModelUpgradeRecruitSM.setSizeLimit(50000);
+			aResponse = (await (await fetch(sServiceURL.concat(`?$filter=PRODUCT_NAME eq 'Succession Management'`))).json());
+            const oModelUpgradeRecruitSM = new sap.ui.model.json.JSONModel(aResponse.value);
 			sap.ui.getCore().setModel(oModelUpgradeRecruitSM, "oModelUpgradeRecruitSM");
 
-			var oModelUpgradeRecruitPG = new sap.ui.model.json.JSONModel(sap.ui.require.toUrl("actionsresults/model/PG.json"));
-			oModelUpgradeRecruitPG.setSizeLimit(50000);
+			aResponse = (await (await fetch(sServiceURL.concat(`?$filter=PRODUCT_NAME eq 'Performance and Goals'`))).json());
+            const oModelUpgradeRecruitPG = new sap.ui.model.json.JSONModel(aResponse.value);
 			sap.ui.getCore().setModel(oModelUpgradeRecruitPG, "oModelUpgradeRecruitPG");
 
-			var oModelUpgradeRecruitCO = new sap.ui.model.json.JSONModel(sap.ui.require.toUrl("actionsresults/model/CO.json"));
-			oModelUpgradeRecruitCO.setSizeLimit(50000);
+			aResponse = (await (await fetch(sServiceURL.concat(`?$filter=PRODUCT_NAME eq 'Compensation'`))).json());
+            const oModelUpgradeRecruitCO = new sap.ui.model.json.JSONModel(aResponse.value);
 			sap.ui.getCore().setModel(oModelUpgradeRecruitCO, "oModelUpgradeRecruitCO");
 
-			var oModelUpgradeRecruitON = new sap.ui.model.json.JSONModel(sap.ui.require.toUrl("actionsresults/model/ON.json"));
-			oModelUpgradeRecruitON.setSizeLimit(50000);
+			aResponse = (await (await fetch(sServiceURL.concat(`?$filter=PRODUCT_NAME eq 'Onboarding'`))).json());
+            const oModelUpgradeRecruitON = new sap.ui.model.json.JSONModel(aResponse.value);
 			sap.ui.getCore().setModel(oModelUpgradeRecruitON, "oModelUpgradeRecruitON");
 
-			var oModelUpgradeRecruitREC = new sap.ui.model.json.JSONModel(sap.ui.require.toUrl("actionsresults/model/REC.json"));
-			oModelUpgradeRecruitREC.setSizeLimit(50000);
+			aResponse = (await (await fetch(sServiceURL.concat(`?$filter=PRODUCT_NAME eq 'Recruiting Management'`))).json());
+            const oModelUpgradeRecruitREC = new sap.ui.model.json.JSONModel(aResponse.value);
 			sap.ui.getCore().setModel(oModelUpgradeRecruitREC, "oModelUpgradeRecruitREC");
 			
-			
-			
-				
-			// $.ajax({
-			// 	url: "/utilsProd/SolutionExplorer.xsodata/BusinessProcessReal",
-			// 	method: "GET",
-			// 	dataType: 'json',
-			// 	async: false,
-			// 	success: function (oData) {
-			// 		var datatemp1 = [];
-			// 		var datatemp2 = [];
-			// 		var datatemp3 = [];
-			// 		var datatemp4 = [];
-			// 		var datatemp5 = [];
-			// 		var datatemp6 = [];
-					
-			// 		for(var t=0;t<oData.d.results.length;t++){
-						
-			// 			if(oData.d.results[t].Product=="Onboarding 2.0" || oData.d.results[t].Product=="Onboarding"){
-			// 				datatemp1.push({
-			// 					"UPGRADE_ELEMENT":oData.d.results[t].Text,
-			// 					"PRODUCT":oData.d.results[t].Product
-			// 				});
-			// 			}else if(oData.d.results[t].Product=="Recruiting"){
-			// 				datatemp2.push({
-			// 					"UPGRADE_ELEMENT":oData.d.results[t].Text,
-			// 					"PRODUCT":oData.d.results[t].Product
-			// 				});
-			// 			}else if(oData.d.results[t].Product=="Succession Management"){
-			// 				datatemp3.push({
-			// 					"UPGRADE_ELEMENT":oData.d.results[t].Text,
-			// 					"PRODUCT":oData.d.results[t].Product
-			// 				});
-			// 			}else if(oData.d.results[t].Product=="Performance and Goals"){
-			// 				datatemp4.push({
-			// 					"UPGRADE_ELEMENT":oData.d.results[t].Text,
-			// 					"PRODUCT":oData.d.results[t].Product
-			// 				});
-			// 			}else if(oData.d.results[t].Product=="Compensation"){
-			// 				datatemp5.push({
-			// 					"UPGRADE_ELEMENT":oData.d.results[t].Text,
-			// 					"PRODUCT":oData.d.results[t].Product
-			// 				});
-			// 			}else if(oData.d.results[t].Product=="Employee Central"){
-			// 				datatemp6.push({
-			// 					"UPGRADE_ELEMENT":oData.d.results[t].Text,
-			// 					"PRODUCT":oData.d.results[t].Product
-			// 				});
-			// 			}
-						
-			// 			// datatemp.push({
-			// 			// 	"UPGRADE_ELEMENT":oData.d.results[t].Text,
-			// 			// 	"PRODUCT":oData.d.results[t].Product
-			// 			// });
-			// 		}
-					
-			// 		sap.ui.getCore().getModel("oModelUpgradeRecruitON").setData(datatemp1);
-			// 		sap.ui.getCore().getModel("oModelUpgradeRecruitREC").setData(datatemp2);
-			// 		sap.ui.getCore().getModel("oModelUpgradeRecruitSM").setData(datatemp3);
-			// 		sap.ui.getCore().getModel("oModelUpgradeRecruitPG").setData(datatemp4);
-			// 		sap.ui.getCore().getModel("oModelUpgradeRecruitCO").setData(datatemp5);
-			// 		sap.ui.getCore().getModel("oModelUpgradeRecruitEC").setData(datatemp6);
-			// 	},
-			// 	fail: function () {}
-			// });
-			
-			// $.ajax({
-			// 	url: "/utilsProd/SolutionExplorer.xsodata/BusinessProcess?$expand=ProductToBusinessProcess/Products&$select=Text,ProductToBusinessProcess/Products/Name",
-			// 	method: "GET",
-			// 	dataType: 'json',
-			// 	// async: false,
-			// 	success: function (oData) {
-			// 		var tempStrData = oData.d.results;
-			// 		var datatemp1 = sap.ui.getCore().getModel("oModelUpgradeRecruitON").getData();
-			// 		var datatemp2 = sap.ui.getCore().getModel("oModelUpgradeRecruitREC").getData();
-			// 		var datatemp3 = sap.ui.getCore().getModel("oModelUpgradeRecruitSM").getData();
-			// 		var datatemp4 = sap.ui.getCore().getModel("oModelUpgradeRecruitPG").getData();
-			// 		var datatemp5 = sap.ui.getCore().getModel("oModelUpgradeRecruitCO").getData();
-			// 		var datatemp6 = sap.ui.getCore().getModel("oModelUpgradeRecruitEC").getData();
-					
-					
-			// 		sap.ui.getCore().getModel("oModelUpgradeRecruitON").setData(datatemp1);
-			// 		sap.ui.getCore().getModel("oModelUpgradeRecruitREC").setData(datatemp2);
-			// 		sap.ui.getCore().getModel("oModelUpgradeRecruitSM").setData(datatemp3);
-			// 		sap.ui.getCore().getModel("oModelUpgradeRecruitPG").setData(datatemp4);
-			// 		sap.ui.getCore().getModel("oModelUpgradeRecruitCO").setData(datatemp5);
-			// 		sap.ui.getCore().getModel("oModelUpgradeRecruitEC").setData(datatemp6);
-					
-			// 		for(var t=0;t<tempStrData.length;t++){
-			// 			if(tempStrData[t].ProductToBusinessProcess.results[0]!=undefined){
-			// 				if(tempStrData[t].ProductToBusinessProcess.results[0].Products.Name=="Employee Central"){
-			// 					datatemp6.push({
-			// 					"UPGRADE_ELEMENT":tempStrData[t].Text,
-			// 					"PRODUCT":tempStrData[t].ProductToBusinessProcess.results[0].Products.Name
-			// 				});
-			// 				}else if(tempStrData[t].ProductToBusinessProcess.results[0].Products.Name=="Compensation"){
-			// 					datatemp5.push({
-			// 					"UPGRADE_ELEMENT":tempStrData[t].Text,
-			// 					"PRODUCT":tempStrData[t].ProductToBusinessProcess.results[0].Products.Name
-			// 				});
-			// 				}else if(tempStrData[t].ProductToBusinessProcess.results[0].Products.Name=="Performance and Goals"){
-			// 					datatemp4.push({
-			// 					"UPGRADE_ELEMENT":tempStrData[t].Text,
-			// 					"PRODUCT":tempStrData[t].ProductToBusinessProcess.results[0].Products.Name
-			// 				});
-			// 				}else if(tempStrData[t].ProductToBusinessProcess.results[0].Products.Name=="Succession Management"){
-			// 					datatemp3.push({
-			// 					"UPGRADE_ELEMENT":tempStrData[t].Text,
-			// 					"PRODUCT":tempStrData[t].ProductToBusinessProcess.results[0].Products.Name
-			// 				});
-			// 				}else if(tempStrData[t].ProductToBusinessProcess.results[0].Products.Name=="Recruiting"){
-			// 					datatemp2.push({
-			// 					"UPGRADE_ELEMENT":tempStrData[t].Text,
-			// 					"PRODUCT":tempStrData[t].ProductToBusinessProcess.results[0].Products.Name
-			// 				});
-			// 				}else if(tempStrData[t].ProductToBusinessProcess.results[0].Products.Name=="Onboarding" || tempStrData[t].ProductToBusinessProcess.results[0].Products.Name=="Onboarding 2.0"){
-			// 					datatemp1.push({
-			// 					"UPGRADE_ELEMENT":tempStrData[t].Text,
-			// 					"PRODUCT":tempStrData[t].ProductToBusinessProcess.results[0].Products.Name
-			// 				});
-			// 				}
-			// 				// datatemp.push({
-			// 				// 	"UPGRADE_ELEMENT":tempStrData[t].Text,
-			// 				// 	"PRODUCT":tempStrData[t].ProductToBusinessProcess.results[0].Products.Name
-			// 				// });
-			// 			}
-							
-			// 		}
-					
-			// 		// sap.ui.getCore().getModel("oModelUpgradeRecruitProd").setData(oData.d.results);
-			// 	},
-			// 	fail: function () {}
-			// });
-			
-			
-			// sap.ui.getCore().getModel("oModelUpgradeRecruitON").setData(JSON.parse(localStorage.getItem("datatemp1")));
-			// sap.ui.getCore().getModel("oModelUpgradeRecruitREC").setData(JSON.parse(localStorage.getItem("datatemp2")));
-			// sap.ui.getCore().getModel("oModelUpgradeRecruitSM").setData(JSON.parse(localStorage.getItem("datatemp3")));
-			// sap.ui.getCore().getModel("oModelUpgradeRecruitPG").setData(JSON.parse(localStorage.getItem("datatemp4")));
-			// sap.ui.getCore().getModel("oModelUpgradeRecruitCO").setData(JSON.parse(localStorage.getItem("datatemp5")));
-			// sap.ui.getCore().getModel("oModelUpgradeRecruitEC").setData(JSON.parse(localStorage.getItem("datatemp6")));
-			// var ODataModel = new sap.ui.model.odata.ODataModel("mainService",true);
-
 			let sURL = this.getOwnerComponent().getManifestObject().resolveUri("sap/sfsf_repo/service/services.xsodata/");
 			var ODataModel = new sap.ui.model.odata.ODataModel(sURL, true); // Changes made on 16/03/2017 and on 16/03/2018
 			ODataModel.setDefaultCountMode(false);
@@ -386,7 +239,7 @@ sap.ui.define([
 			this.getView().byId("tableSc").setHeight($(window).height() - 350 + "px");
 
 		},
-		
+
 		hideBusyIndicator: function () {
 			sap.ui.core.BusyIndicator.hide();
 		},
